@@ -13,7 +13,7 @@ Christians typically call God "our Heavenly Father" because that is how Jesus in
 
 ## How the Bible Identifies God
 
-God's name is transliterated from Hebrew as [YHVH](https://eternal.family.co.za/god/father/name) also known as the tetragrammaton. This name is found in Genesis 2:4-9, 4:26; Psalm 83:18, 118:27; Isaiah 11:2 and is commonly translated as "[LORD](https://eternal.family.co.za/god/father/name#lord)" in the Old Testament and "[Lord](https://eternal.family.co.za/god/father/name#lord)" in the New Testament. God's name is often pronounced "Yahweh" or "Jehovah".
+God's name is transliterated from Hebrew as [YHVH](https://eternal.family.net.za/god/father/name) also known as the tetragrammaton. This name is found in Genesis 2:4-9, 4:26; Psalm 83:18, 118:27; Isaiah 11:2 and is commonly translated as "[LORD](https://eternal.family.net.za/god/father/name#lord)" in the Old Testament and "[Lord](https://eternal.family.net.za/god/father/name#lord)" in the New Testament. God's name is often pronounced "Yahweh" or "Jehovah".
 
 ### Titles of God
 
@@ -24,7 +24,7 @@ God's name is transliterated from Hebrew as [YHVH](https://eternal.family.co.za/
 * "The Everlasting God" *(El Olam)* (Genesis 21:33; Isaiah 40:28)
 * "LORD who provides" *(Adonai Yireh / Yahweh Yireh)* (Genesis 22:2,14)
 * "God of Abraham, Isaac, and Jacob" (Exodus 3:6,15-16)
-* "[I AM THAT I AM](https://eternal.family.co.za/god/father/i-am)" / "who was and who is" *(Ehyeh asher Ehyeh)* (Exodus 3:14–15; Isaiah 48:12; Revelation 1:8; Revelation 4:8; Revelation 11:17; Revelation 16:5)
+* "[I AM THAT I AM](https://eternal.family.net.za/god/father/i-am)" / "who was and who is" *(Ehyeh asher Ehyeh)* (Exodus 3:14–15; Isaiah 48:12; Revelation 1:8; Revelation 4:8; Revelation 11:17; Revelation 16:5)
 * "God Almighty" *(El Shaddai)* (Exodus 15:6)
 * "LORD your healer" *(Adonai Roph'ekha)* (Exodus 15:26)
 * "LORD my Miracle/Banner" *(Adonai Nissi)* (Exodus 17:15)
@@ -46,7 +46,7 @@ God's name is transliterated from Hebrew as [YHVH](https://eternal.family.co.za/
 * "The Father" / "Abba Father" *(Adonai Avinu / Abba)* (Isaiah 63:16, 64:8; Jeremiah 3:19; Malachi 2:10; Matthew 23:9; Mark 14:36; Romans 8:15; Galatians 4:6; 2 Corinthians 1:2-3)
 * "Hope of Israel" (Jeremiah 14:8, 17:13)
 * "LORD our Righteousness" *(Adonai Tsidkeinu)* (Jeremiah 23:6, 33:16)
-* "[The Ancient of Days](https://eternal.family.co.za/god/father/ancient-of-days)" (Daniel 7:13)
+* "[The Ancient of Days](https://eternal.family.net.za/god/father/ancient-of-days)" (Daniel 7:13)
 * "LORD is There" *(Adonai Shammah)* (Ezekiel 48:35)
 * The "Vinedresser" (John 15:1-9)
 * "The Only True God" (John 17:3)
@@ -67,7 +67,7 @@ While God's titles often emphasize His roles and relationships, His attributes d
 
 #### God's Nature and Essence
 
-* [God is not limited by our timeline](https://eternal.family.co.za/god/father/time)
+* [God is not limited by our timeline](https://eternal.family.net.za/god/father/time)
 * God is spirit (John 4:24; 2 Corinthians 3:17)
 * God is invisible (Colossians 1:15; 1 Timothy 1:17, 6:16; Hebrews 11:27)
 * God is not a human (Numbers 23:19; 1 Samuel 15:29; Hosea 11:9)
