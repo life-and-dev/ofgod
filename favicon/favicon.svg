@@ -1,4 +1,49 @@
-<!-- Created with PixiEditor (https://pixieditor.net) -->
-<svg version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <ellipse cx="256" cy="256" rx="256" ry="256" transform="matrix(1, 0, 0, 1, 0, 0)" fill="#0969da" fill-opacity="1" stroke="#0969da" stroke-width="0" opacity="1" id="Ellipse" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="497.76617mm"
+   height="497.76617mm"
+   viewBox="0 0 497.76617 497.76617"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="God.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.6025263"
+     inkscape:cx="824.86025"
+     inkscape:cy="940.20792"
+     inkscape:window-width="3840"
+     inkscape:window-height="2131"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.6866941,-7.1257963)">
+    <circle
+       style="fill:#58a6ff;stroke:#000000;stroke-width:21.3164;stroke-linecap:square;fill-opacity:1"
+       id="path1"
+       cx="255.56978"
+       cy="256.00888"
+       r="238.22488" />
+  </g>
 </svg>
