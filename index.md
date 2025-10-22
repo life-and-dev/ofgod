@@ -135,7 +135,7 @@ While God's attributes describe what He is like in His essential being, His pers
 * God does good to both good and evil (Matthew 5:45; Luke 6:35)
 * God rewards people (Matthew 6:1,4,6,18; Hebrews 11:6)
 * God wants people to seek Him (Matthew 11:25-27; Luke 10:21)
-* God sent His beloved [son](https://son.ofgod.info) to save it (John 3:16-18; Romans 5:8; 1 John 4:9-10)
+* God sent His beloved [son](https://son.ofgod.info) to save the world (John 3:16-18; Romans 5:8; 1 John 4:9-10)
 * God is kind (Luke 6:35; Romans 2:4; Ephesians 2:7; Titus 3:4)
 * God has no partiality (Romans 2:11; Deuteronomy 10:17; Job 34:19; Acts 10:34; Ephesians 6:9; Colossians 3:25)
 * God comforts those in tribulation (2 Corinthians 1:3-4; Isaiah 51:12, 66:13)
@@ -145,10 +145,10 @@ While God's attributes describe what He is like in His essential being, His pers
 
 ## Knowing God Personally
 
-This comprehensive study of God's titles, attributes, and personality reveals a Father who is infinitely more wonderful than many imagine. Yet even this extensive exploration is by no means the full revelation of God. It serves as an invitation for you to study the Bible yourself and discover the depths of His character that no single article could contain.
+This study of God's titles, attributes, and personality reveals a Father who is infinitely more wonderful than many imagine. Yet even this exploration is by no means the full revelation of God. It serves as an invitation for you to study the Bible yourself and discover the depths of His character that no single article could contain.
 
 Jesus didn't come merely to teach theological truths about God; He came to introduce you personally to the Father, to tear down the barriers between you and Him, and to make a way for you to know Him intimately.
 
-God is not a religious system to be studied from a distance. He is a Person who can be pursued and known. He is near to those who call upon Him (Psalm 145:18), willing to reason with you (Isaiah 1:18), and He reveals Himself to those who seek Him with all their heart (Jeremiah 29:13). The Father who created you, who knows every detail of your life, who is compassionate and abounding in love, to name only a few qualities of God. 
+God is not a religious system to be studied from a distance. He is a Person who can be pursued and known. He is near to those who call upon Him (Psalm 145:18), willing to reason with you (Isaiah 1:18), and He reveals Himself to those who seek Him with all their heart (Jeremiah 29:13). The Father who created you knows every detail of your life. He is compassionate and abounding in love—these are only a few of His many qualities. 
 
 This God invites you into relationship with Him.

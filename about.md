@@ -1,5 +1,5 @@
 ---
-description: About the main author of this website
+description: Learn about the author's journey from doubt to faith and the mission behind this website exploring God's character.
 ---
 
 # About the author
@@ -20,7 +20,7 @@ This website is the fruit of that ongoing exploration. I'm still learning, still
 
 This website has two primary purposes that I believe can transform how we experience faith:
 
-**First, to reveal God's true character.** Many misconceptions about God which cause unnecessary fear and doubt. When we discover who God truly is through Scripture, everything changes. We see a Father who is loving, faithful, and deeply invested in relationship with us.
+**First, to reveal God's true character.** Many misconceptions about God cause unnecessary fear and doubt. When we discover who God truly is through Scripture, everything changes. We see a Father who is loving, faithful, and deeply invested in relationship with us.
 
 **Second, to explore what it means to trust God in our daily lives.** It's one thing to know about God; it's another to trust Him with our real struggles, decisions, and hopes. Together, we'll explore why trusting God matters, what areas of our lives we can confidently entrust to Him, and how we can practically live in that trust today—even in our complex modern world.
 
@@ -32,18 +32,18 @@ You'll find here careful attention to biblical texts, exploration of themes that
 
 I write independently, not affiliated with any church or organization, and without sponsorship. This freedom allows me to follow where God's word leads without institutional constraints.
 
-I encourage you to critically evaluate everything your read. Not just on this website, but always pray about any Christian content from any source you receive. I admit that I have been [wrong before](disclaimer.md), and I'll likely make more mistakes. That's why I genuinely invite you to [correct my errors](edit.md) when you spot them. Your wisdom, your insights, and your questions make this a richer resource for everyone who visits.
+I encourage you to critically evaluate everything you read. Not just on this website, but always pray about any Christian content from any source you receive. I admit that I have been [wrong before](/disclaimer.md), and I'll likely make more mistakes. That's why I genuinely invite you to [correct my errors](/edit.md) when you spot them. Your wisdom, your insights, and your questions make this a richer resource for everyone who visits.
 
 ### An Invitation to Explore
 
 Rather than asking you to accept my conclusions, I invite you to examine the Bible for yourself. The content here is designed to point you back to God's word, to raise questions worth pondering, and to provide tools for your own study.
 
 As you explore this site, I encourage you to:
-- Test everything against the Scripture (Acts 17:11)
+- Test everything against the Scripture (Acts 17:11 (ESV))
 - Ask the Holy Spirit for wisdom and discernment
 - Engage thoughtfully with ideas that might be new to you
 - Share what you discover with others
 
 Whether you read one article or explore the entire site, my prayer is that it draws you closer to God's love and your position in His eternal Kingdom.
 
-Join me in this journey of discovery, exploring together what it means be a child of our Father God.
+Join me in this journey of discovery, exploring together what it means to be a child of our Father God.
