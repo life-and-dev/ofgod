@@ -16,7 +16,18 @@ Abraham was a wealthy nomad living in Canaan (Genesis 13:2). He did nothing spec
 
 ## The Divine Calling
 The LORD spoke to Abraham to establish a covenant and later to test the priority of his love. God communicated directly with him, providing both a great promise and a difficult command.
-> "Go from your country and your kindred and your father's house to **the land that I will show you. And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.**" . . . "Abraham!" And he said, "Here I am." **He** said, "Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains **of which I shall tell you.**" — Genesis 12:1-3, 22:1-2 (ESV)
+
+> Now the LORD said to Abram, "Go from your country and your kindred and your father's house to the land that I will show you. And **I will make of you a great nation**, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed." 
+> 
+> — Genesis 12:1-3 (ESV)
+
+Yet, dispite promising that Abram will have children...
+
+> God tested Abraham and said to him, “Abraham!”  
+> And he said, “Here I am.”  
+> He said, “Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and **offer him there as a burnt offering** on one of the mountains of which I shall tell you.”
+> 
+> — Genesis 22:1-2 (ESV)
 
 ## The Necessary Sacrifice
 Abraham had to sacrifice his son Isaac, whom he loved dearly (Genesis 22:2). This was the son of promise through whom God pledged to build a nation (Genesis 21:12). By obeying, Abraham risked losing the fulfillment of all his hopes and his family line (Genesis 22:10). He sacrificed his own understanding of God's promises to trust the character of the Promise-Giver (Hebrews 11:17-19). He also risked the emotional devastation of his household.
@@ -29,7 +40,18 @@ Abraham rose early in the morning and prepared for the journey immediately (Gene
 
 ## The Divine Miracle
 God provided a substitute for Isaac and reaffirmed that the original promise would be fulfilled through him.
-> And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son. . . "**I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies, and in your offspring shall all the nations of the earth be blessed**, because you have obeyed **My** voice." — Genesis 22:13,17-18 (ESV)
+
+> Then Abraham reached out his hand and took the knife to slaughter his son. 
+> 
+> But [the angel of the LORD](https://son.ofgod.info/son-as-angel) called to him from heaven and said, “Abraham, Abraham!”  
+> And he said, “Here I am.”  
+> He said, “Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me.”
+> 
+> And Abraham lifted up his eyes and looked, and behold, behind him was a ram, caught in a thicket by his horns. And Abraham went and took the ram and offered it up as a burnt offering instead of his son. So Abraham called the name of that place, “The LORD will provide”; as it is said to this day, “On the mount of the LORD it shall be provided.”
+>
+> And the angel of the LORD called to Abraham a second time from heaven and said, “'By myself I have sworn', declares the LORD, 'because you have done this and have not withheld your son, your only son, I will surely bless you, and I will surely multiply your offspring as the stars of heaven and as the sand that is on the seashore. And your offspring shall possess the gate of his enemies, and win your offspring shall all the nations of the earth be blessed, because you have obeyed my voice.'”
+> 
+> — Genesis 22:10-18 (ESV)
 
 ## The Lasting Result
 The miracle resulted in the preservation of Isaac's life and the continuation of the covenant line (Genesis 22:13). Abraham called the name of that place "The LORD Will Provide," a testimony that has encouraged believers for generations (Genesis 22:14). Through Isaac, the nation of Israel was born, and eventually, the Messiah came to bless all nations (Genesis 26:3-4; Matthew 1:1; Galatians 3:16). Abraham's neighbors and descendants saw him as a man of great faith and a "prince of God" among them (Genesis 23:6). His obedience became a model of trust for all who follow the LORD (Romans 4:11-12). The sacrifice prefigured the ultimate sacrifice of God's own Son on a similar mountain (John 3:16).
