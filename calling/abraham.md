@@ -3,9 +3,8 @@ description: Explore how Abraham trusted God with his only son Isaac, demonstrat
 keywords: Abraham, Isaac, sacrifice, faith, trust God, Genesis 22, biblical article, Jehovah Jireh
 ---
 
-# The Ultimate Test of Faith: Abraham and Isaac
+# Abraham & Isaac: Sacrificing his son
 
-## Introduction
 Abraham receives a shocking command to sacrifice his beloved son, the heir of all God's promises. This test of faith will determine the future of a nation and reveal the depths of one man's devotion. It invites us to see how far trust can go.
 
 ## The Problem of a Barren Legacy
