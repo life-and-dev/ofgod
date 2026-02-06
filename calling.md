@@ -1,10 +1,17 @@
-# title: Calling
+---
+description: A biblical critique of finding a 'spiritual calling', emphasizing obedience and service over special quests or superpowers.
+keywords: spiritual calling, god's will, christian purpose, biblical gifts, obedience, spiritual quest
+---
 
-> People want to know how they can find their spiritual callings, i.e. what God is calling them to do with their lives. They want to know the one, grand purpose God has for them, the one dominant spiritual gift that will reach hundreds or thousands or millions... In popular Christian culture, it is usually the people who find their niche and stay there for years who get the attention. Major para-church leaders, musicians, and evangelists often spend decades working at and perfecting the one area in which God has called them to serve. -- [Got Questions](https://www.gotquestions.org/spiritual-calling.html)
+# Calling
+
+Many believers grapple with the question of their spiritual identity and purpose. This article examines the popular concept of a "spiritual calling" through a biblical lens, exploring whether God indeed assigns a singular, lifelong "quest" or "superpower" to each individual, or if His will for us is revealed differently in Scripture.
+
+> People want to know how they can find their spiritual callings, i.e. what God is calling them to do with their lives. They want to know the one, grand purpose God has for them, the one dominant spiritual gift that will reach hundreds or thousands or millions... In popular Christian culture, it is usually the people who find their niche and stay there for years who get the attention. Major para-church leaders, musicians, and evangelists often spend decades working at and perfecting the one area in which God has called them to serve. — [Got Questions](https://www.gotquestions.org/spiritual-calling.html)
 
 ## Superpowers?
 
-Some would refer to [God's gifts](https://eternal.family.net.za/god/spirit/gifts) as special "superpowers" that would enable a "hero" to complete his or her special "calling". Scriptures like Romans 12:4-6, 1 Corinthians 12:4-7, Ephesians 2:10 or 1 Peter 4:10 are often quoted out of context. These "gifts" that the apostles mention, are powers of the Holy Spirit which could potentially operate in every believer. The purpose of these "gifts" are not intended for our own power but to take care of [the body of Christ](https://kingdom.ofgod.info/christ/body) to the [glory](https://eternal.family.net.za/bible/concepts/glory) of God.
+Some would refer to [God's gifts](https://eternal.family.net.za/god/spirit/gifts) as special "superpowers" that would enable a "hero" to complete his or her special "calling". Scriptures like Romans 12:4-6; 1 Corinthians 12:4-7; Ephesians 2:10 or 1 Peter 4:10 are often quoted out of context. These "gifts" that the apostles mention, are powers of the Holy Spirit which could potentially operate in every believer. The purpose of these "gifts" are not intended for our own power but to take care of [the body of Christ](https://kingdom.ofgod.info/christ/body) to the [glory](https://eternal.family.net.za/bible/concepts/glory) of God.
 
 ## Quests?
 
@@ -26,15 +33,15 @@ In reality:
 2. An individual's worth is determined by God Himself, which cannot be measured (Matthew 6:1-5) or compared to others.
 3. The outcome of God's command ([word](https://word.ofgod.info)) is not dependent on human abilities, appearance (1 Samuel 16:7) or resources (James 2:5), but rather on God's sovereignty. God's word will always prevail, despite any individual's attitude and failures.
 
-> Many are the plans in the mind of a man, but it is **the purpose of the LORD that will stand**. -- Proverbs 19:21 ESV
+> Many are the plans in the mind of a man, but it is **the purpose of the LORD that will stand**. — Proverbs 19:21 (ESV)
 
 God loves us, even in our failed state.
 
-> But God demonstrates His own love toward us, in that **while we were still [sinners](/bible/concepts/sin)**, Christ died for us. -- Romans 5:8 NKJV
+> But God demonstrates His own love toward us, in that **while we were still [sinners](https://eternal.family.net.za/bible/concepts/sin)**, Christ died for us. — Romans 5:8 (NKJV)
 
-God have grace, even when we accomplished nothing.
+God has grace, even when we accomplished nothing.
 
-> For **by grace** you have been saved through faith, and that **not of yourselves**; it is the gift of God, **not of works**, lest anyone should boast. -- Ephesians 2:8-9 (NKJV)
+> For **by grace** you have been saved through faith, and that **not of yourselves**; it is the gift of God, **not of works**, lest anyone should boast. — Ephesians 2:8-9 (NKJV)
 
 ## Real-life Examples
 
@@ -70,24 +77,24 @@ God have grace, even when we accomplished nothing.
 ### Result of compromising
 
 * Eve: Her "calling" was made harder with birth pain (Genesis 3:16). However, Eve was still able to deliver children to Adam.
-* Adam: Technically Adam was not removed because he failed his "calling", but was given another piece of field to complete his "calling". Instead of the abundant garden, Adam had to work the field outside the garden in pain to provide food for his family (Genesis 3:17-19). 
+* Adam: Adam was not technically removed because he failed his "calling", but was given another piece of field to complete his "calling". Instead of the abundant garden, Adam had to work the field outside the garden in pain to provide food for his family (Genesis 3:17-19). 
 * Abraham & Sarah: Initially they tried to fulfil their calling with the help of a concubine woman to delivery a child on behalf of Sarah (Genesis 16:1-4). This resulted in contempt (Genesis 16:4-6) and the birth of Ismael the forefather of the Arabs. However, despite their unfaithfulness towards God's promise, God still kept his promise such that Sarah eventually had her own son. 
 * Jacob: Cheated his father and brother to get a blessing to fulfil his calling (Genesis 27). This incident caused Jacob's father to sent him away (Genesis 28:5) and forced Jacob to live in fear of Esau (Genesis 32-33). However, despite Jacob living in exile, Jacob was still blessed to become Israel.
-* Samson: Samsung was freely moving around the heart of the Philistines. He could have caused major damage to them if he wanted. Yet, his lustful desires after Philistine women initially prevented him from taking action. At the end, he still caused a major blow to the Philistines which initiated a gradual decline in the Philistine stronghold over Israel by completing his suicide mission.
-* Saul: Saul had to battle against Israel's enemies. God already demonstrated His favour with signs as confirmation (1 Samuel 10:1) that he would be victorious. Yet, Saul rather trusted in people than God. When Saul noticed that his "seer" Samuel does arrive and that his men were forsaking him, he tried to convince them to stay by his own sacrifice which was against the Mosaic laws (Leviticus 1:5, 17:3-4). Therefore, God had to remove Saul descendants from his kingdom (1 Samuel 13:13-14), but despite Saul's disobedience God still gave him victory as promised.
-* Judas Iscariot: Judas betrayed Jesus, despite Jesus "calling" him to be his disciple. Jesus did not error, because he knew Judas plans (John 6:64-65). Neither did God calls Judas to sin (1 Timothy 2:3-4). Jesus warned Judas, and it was his own choice to proceed. Peter denied Jesus (John 13:38), but he repented, therefore he was forgiven. Some argue Judas could also have repented like Peter, but instead he committed suicide. Despite Judas freewill (Matthew 26:14-16, Mark 14:10-11, Luke 22:3-6) that lead to the bad choice to betray Jesus, God was able to incorporate his actions in His divine plan as Judas actions was prophesied (John 13:18; Acts 1:16-20). That fact that Judas accurately fulfilled Jesus prophecies served as a witness to non-believers despite his unfortunate end.
+* Samson: Samson was freely moving around the heart of the Philistines. He could have caused major damage to them if he wanted. Yet, his lustful desires after Philistine women initially prevented him from taking action. At the end, he still caused a major blow to the Philistines which initiated a gradual decline in the Philistine stronghold over Israel by completing his suicide mission.
+* Saul: Saul had to battle against Israel's enemies. God already demonstrated His favour with signs as confirmation (1 Samuel 10:1) that he would be victorious. Yet, Saul rather trusted in people than God. When Saul noticed that his "seer" Samuel does arrive and that his men were forsaking him, he tried to convince them to stay by his own sacrifice which was against the Mosaic laws (Leviticus 1:5; 17:3-4). Therefore, God had to remove Saul descendants from his kingdom (1 Samuel 13:13-14), but despite Saul's disobedience God still gave him victory as promised.
+* Judas Iscariot: Judas betrayed Jesus, despite Jesus "calling" him to be his disciple. Jesus did not err, because he knew Judas plans (John 6:64-65). Neither did God call Judas to sin (1 Timothy 2:3-4). Jesus warned Judas, and it was his own choice to proceed. Peter denied Jesus (John 13:38), but he repented, therefore he was forgiven. Some argue Judas could also have repented like Peter, but instead he committed suicide. Despite Judas's free will (Matthew 26:14-16; Mark 14:10-11; Luke 22:3-6) that lead to the bad choice to betray Jesus, God was able to incorporate his actions in His divine plan as Judas actions was prophesied (John 13:18; Acts 1:16-20). That fact that Judas accurately fulfilled Jesus prophecies served as a witness to non-believers despite his unfortunate end.
 
 ## Circumstances that lead to a calling
 
 Sometimes circumstances outside an individual's control leads the person to take up a "calling".
 
-> Many are the plans in the mind of a man, but it is **the purpose of the LORD that will stand**. -- Proverbs 19:21 (ESV)
+> Many are the plans in the mind of a man, but it is **the purpose of the LORD that will stand**. — Proverbs 19:21 (ESV)
 
-### Ester
+### Esther
 
-For example, God did not speak directly to Esther nor given her any specials signs, yet Mordecai send Esther the message:
+For example, God did not speak directly to Esther nor given her any specials signs, yet Mordecai sent Esther the message:
 
-> “Do not think to yourself that in the king's palace you will escape any more than all the other Jews. For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And **who knows whether you have not come to the kingdom for such a time as this?**” -- Esther 4:13-14 (ESV)
+> “Do not think to yourself that in the king's palace you will escape any more than all the other Jews. For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And **who knows whether you have not come to the kingdom for such a time as this?**” — Esther 4:13-14 (ESV)
 
 Esther's position enabled her to save the Jews. One could argue that this was her purpose or "calling". However, there was a high risk that the king would not approve her action and this could have cost Esther her life.
 
@@ -107,16 +114,16 @@ Either way, Deborah was the judge (leader) of Israel who had the authority from 
 > 
 > And I told them of **the hand of my God that had been upon me** for good, and also of the words that the king had spoken to me. And they said, “Let us rise up and build.” So they strengthened their hands for the good work.
 > 
-> -- Nehemiah 2:12,17-18 (ESV)
+> — Nehemiah 2:12,17-18 (ESV)
 
 There are no record of any special visions, dreams, signs or miracles that Nehemiah experienced other than favour from the king and queen. Yet, Nehemiah felt that "God had put into his heart" a desire to rebuilt Jerusalem. Because he trusted that this desire is inline with God's will he had the courage to undertake this massive task.
 
 ## Conclusion
 
 * Often God chooses [the most unlikely candidate](#real-life-examples) to complete God's task, because they often lacked the necessary reputation, resources, strategy or courage.
-  * None of these individuals were seeking their "calling". Circumstance often lead them to discovered it unexpectedly.
-  * None of these individuals had to do anything special to receive a "calling" from God. Some of them was not even born yet.
-  * None of these individuals had to wonder what their "callings" were or what exactly God expected from them. Their commands were clear and there were no room of error or "not hearing God's voice correctly". All of these individuals witnessed unnatural signs from God to confirm their "calling".
+  * None of these individuals were seeking their "calling". Circumstances often led them to discovered it unexpectedly.
+  * None of these individuals had to do anything special to receive a "calling" from God. Some of them were not even born yet.
+  * None of these individuals had to wonder what their "callings" were or what exactly God expected from them. Their commands were clear and there was no room for error or "not hearing God's voice correctly". All of these individuals witnessed unnatural signs from God to confirm their "calling".
 * In all cases [God provided](#real-life-examples) all the necessary favour, resources, strategy and support for these individuals to complete their "callings".
 * In all cases [God's will prevailed](#real-life-examples) despite these individuals own mistakes, attitude, doubt or deliberate rebellion.
 * In many cases the individuals also desired to fulfil their God given purposes but in their own strength they failed, for example:
@@ -128,9 +135,10 @@ There are no record of any special visions, dreams, signs or miracles that Nehem
 
 There are no scripture that place any responsibility on any person to seek God's special "calling" for his or her own [successful life](https://eternal.family.net.za/life). Instead, Jesus taught:
 
-> Seek first [the Kingdom of God](https://kingdom.ofgod.info) and His [righteousness](https://eternal.family.net.za/bible/concepts/righteousness), and all these things will be added to you. -- Matthew 6:33 (ESV), Luke 12:31
+> Seek first [the Kingdom of God](https://kingdom.ofgod.info) and His [righteousness](https://eternal.family.net.za/bible/concepts/righteousness), and all these things will be added to you. — Matthew 6:33 (ESV); Luke 12:31
 
 The Gospel of [the Kingdom of God](https://kingdom.ofgod.info) encourage us to:
+
 1. live a holy life (1 Peter 1:15-16; John 15:8; 1 Thessalonians 4:3-7),
 2. serve others in humility (Matthew 22:37-40; Galatians 5:13; Philippians 2:3-4),
 3. teach the gospel (Mark 16:15; Acts 1:8; 1 Peter 3:15; 1 Corinthians 9:16),
