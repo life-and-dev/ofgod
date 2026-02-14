@@ -14,52 +14,39 @@ Sennacherib, king of Assyria, had already conquered all the fortified cities of 
 When Hezekiah heard the words of the Rabshakeh, he tore his clothes and covered himself with sackcloth (2 Kings 19:1). He went into the house of the LORD to seek Him in deep humility (2 Kings 19:1). He sent his officials to Isaiah the prophet to ask for prayer (2 Kings 19:2-4). Hezekiah acknowledged his complete helplessness (2 Kings 19:3). He compared the situation to a woman in labor who has no strength to deliver her child (2 Kings 19:3). He did not rely on his own wisdom but humbled himself before the LORD (2 Kings 19:1).
 
 ## The Divine Calling
-The LORD spoke to Hezekiah through the prophet Isaiah, the son of Amoz. Isaiah sent a message to the king containing the exact words of the LORD in response to Hezekiah's prayer regarding Sennacherib.
 
-> "Thus says the LORD, the God of Israel: **Because you have prayed to Me** concerning Sennacherib king of Assyria, this is the word that the LORD has spoken concerning him:
+> Then Isaiah the son of Amoz sent to Hezekiah, saying, “Thus says the Lord God of Israel, 
+> 
+> ‘**Because you have prayed to Me** against Sennacherib king of Assyria, this is the word which the Lord has spoken concerning him:
 >
-> 'She despises you, she scorns you.
->     The virgin daughter of Zion;
-> she wags her head behind you.
->     The daughter of Jerusalem.
+> “The virgin, the daughter of Zion, Has despised you, laughed you to scorn; The daughter of Jerusalem Has shaken her head behind your back!
 >
-> 'Whom have you mocked and reviled?
->     Against Whom have you raised your voice
-> and lifted your eyes to the heights?
->     Against the Holy One of Israel!
-> By your servants you have mocked the LORD,
->     and you have said, "With my many chariots
-> I have gone up the heights of the mountains,
->     to the far recesses of Lebanon;
-> I fell its tallest cedars,
->     its choicest cypresses;
-> I entered its remotest lodging place,
->     its most fruitful forest.
-> I dug wells
->     and drank waters,
-> and with the sole of my foot I dried up
->     all the streams of Egypt."
+> Whom have you reproached and blasphemed? Against whom have you raised your voice, and lifted up your eyes on high?
+> 
+> Against the Holy One of Israel. By your servants you have reproached the Lord, and said, ‘By the multitude of my chariots I have come up to the height of the mountains, to the limits of Lebanon; I will cut down its tall cedars and its choice cypress trees; I will enter its farthest height, to its fruitful forest. I have dug and drunk water, and with the soles of my feet I have dried up all the brooks of defense.’
+> 
+> “Did you not hear long ago How I made it, from ancient times that I formed it?
+> 
+> Now I have brought it to pass, that you should be for crushing fortified cities into heaps of ruins. Therefore their inhabitants had little power; They were dismayed and confounded; They were as the grass of the field And the green herb, as the grass on the housetops and grain blighted before it is grown. But I know your dwelling place, your going out and your coming in, and your rage against Me.
 >
-> 'Have you not heard
->     that I determined it long ago?
-> I planned from days of old
->     what now I bring to pass,
-> that you should make fortified cities
->     crash into heaps of ruins,
+> Because your rage against Me and your tumult have come up to My ears, therefore I will put My hook in your nose and My bridle in your lips, and **I will turn you back by the way which you came**.” ’
 >
-> 'But I know your sitting down
->     and your going out and coming in,
->     and your raging against Me.
-> Because you have raged against Me
->     and your complacency has come to My ears,
-> **I will put My hook in your nose**
-> **and My bit in your mouth,**
-> **and I will turn you back on the way**
-> **by which you came.**'
+> “This shall be a sign to you:
 >
-> "And this shall be the sign for you: this year eat what grows of itself, and in the second year what springs of the same. Then in the third year sow and reap and plant vineyards, and eat their fruit. And the surviving remnant of the house of Judah shall again take root downward and bear fruit upward. For out of Jerusalem shall go a remnant, and out of Mount Zion a band of survivors. The zeal of the LORD of hosts will do this.
+> You shall eat this year such as grows of itself, and   
+> the second year what springs from the same;  
+> Also in the third year sow and reap,  
+> Plant vineyards and eat the fruit of them. And the remnant who have escaped of the house of Judah shall again take root downward, and bear fruit upward.
 >
-> "Therefore thus says the LORD concerning the king of Assyria: **He shall not come into this city or shoot an arrow there, or come before it with a shield or cast up a siege mound against it.** By the way that he came, by the same he shall return, and he shall not come into this city, declares the LORD. **For I will defend this city to save it, for My own sake and for the sake of My servant David.**" — Isaiah 37:21-35 (ESV)
+> For out of Jerusalem shall go a remnant, and those who escape from Mount Zion. The zeal of the Lord of hosts will do this.
+>
+> Therefore thus says the Lord concerning the king of Assyria:
+>
+> ‘**He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor build a siege mound against it. By the way that he came, by the same shall he return; And he shall not come into this city,’ says the LORD. 
+> 
+> ‘For **I will defend this city, to save it** for My own sake and for My servant David’s sake.’ ”
+>
+> — Isaiah 37:21-35 (NKJV)
 
 ## The Necessary Sacrifice
 Hezekiah had to sacrifice his pride and his reliance on military alliances (2 Kings 18:21). He risked the total destruction of Jerusalem and his own life by refusing to surrender to the Assyrian king (2 Kings 19:10). He chose to trust in the word of a prophet rather than the visible power of the world's greatest army (2 Kings 19:6-7). He risked being remembered as the king who allowed his people to be slaughtered (2 Kings 18:30).
@@ -75,7 +62,7 @@ God acted swiftly and decisively to fulfill the promise He made through Isaiah (
 
 > "And that night **the angel of the LORD went out and struck 185,000 in the camp of the Assyrians.** And when people arose early in the morning, behold, these were all dead bodies. Then **Sennacherib king of Assyria departed and went home and lived at Nineveh.** And as he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer, his sons, struck him down with the sword and escaped into the land of Ararat. And Esarhaddon his son reigned in his stead." — 2 Kings 19:35-37 (ESV)
 
-The miracle fulfilled God's promise that the king of Assyria would not enter the city or even shoot an arrow there (2 Kings 19:32). He defended the city just as He had said He would (2 Kings 19:34).
+The miracle fulfilled [God's promise that the king of Assyria would not enter the city](https://prophecies.ofgod.info/political/isaiah-37-33) or even shoot an arrow there (2 Kings 19:32). He defended the city just as He had said He would (2 Kings 19:34).
 
 ## The Lasting Result
 The miraculous deliverance resulted in the immediate preservation of Jerusalem and the survival of the kingdom of Judah (2 Kings 19:35). The surrounding nations saw the power of the LORD and brought gifts to Hezekiah, and he was exalted in their sight (2 Chronicles 32:23). The threat from Assyria was broken, and Sennacherib never returned to bother Judah again (2 Kings 19:36). Hezekiah's faith became a legend (2 Kings 18:5). He was remembered as a king who trusted in the LORD more than any king of Judah before or after him (2 Kings 18:5). The remnant of Judah was allowed to take root downward and bear fruit upward, just as Isaiah had prophesied (Isaiah 37:31). The temple remained a place of worship, and the line of David was preserved (2 Kings 19:34). Most importantly, the name of the LORD was glorified among the nations as the God Who truly delivers His people (2 Kings 19:19).
