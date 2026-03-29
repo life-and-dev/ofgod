@@ -1,9 +1,9 @@
 ---
-description: Discover how Jeremiah trusted God with his life and mission despite intense persecution, dungeons, and the fall of Jerusalem.
-keywords: Jeremiah, New Covenant, Babylonian exile, trust God, faith, weeping prophet, Jeremiah 1, biblical article
+description: Discover how Jeremiah trusted the LORD'S word during the fall of Jerusalem, facing rejection and prison to deliver a message of hope.
+keywords: Jeremiah, Babylon, Jerusalem, prophet, calling, trust God, faith, miracle, new covenant, Jeremiah 1
 ---
 
-# Jeremiah: The Weeping Prophet
+# Jeremiah: A Prophet to the Nations
 
 A young man is chosen to be a voice of warning to a nation on the brink of collapse. He must speak hard truths to kings and priests who want him dead. Discover how Jeremiah trusted God through dungeons, pits, and the destruction of his beloved city.
 
