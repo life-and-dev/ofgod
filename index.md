@@ -13,7 +13,7 @@ Christians typically call God "our Heavenly Father" because that is how Jesus in
 
 ## How the Bible Identifies God
 
-God's name is transliterated from Hebrew as [YHVH](https://eternal.family.net.za/god/father/name) also known as the tetragrammaton. This name is found in Genesis 2:4-9, 4:26; Psalm 83:18, 118:27; Isaiah 11:2 and is commonly translated as "[LORD](https://eternal.family.net.za/god/father/name#lord)" in the Old Testament and "[Lord](https://eternal.family.net.za/god/father/name#lord)" in the New Testament. God's name is often pronounced "Yahweh" or "Jehovah".
+God's name is transliterated from Hebrew as [YHVH](name.md) also known as the tetragrammaton. This name is found in Genesis 2:4-9, 4:26; Psalm 83:18, 118:27; Isaiah 11:2 and is commonly translated as "[LORD](name.md#lord)" in the Old Testament and "[Lord](name.md#lord)" in the New Testament. God's name is often pronounced "Yahweh" or "Jehovah".
 
 ### Titles of God
 
