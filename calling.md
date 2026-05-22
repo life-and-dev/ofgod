@@ -18,12 +18,12 @@ Some would refer to [God's gifts](https://eternal.family.net.za/god/spirit/gifts
 When God gives a specific command, obedience is essential, as disobedience would undermine His authority as Lord (Deuteronomy 25:1-2,15). However, some people view these commands as "quests" that they must complete, which can lead to an unhealthy focus on achievement and success.
 
 This mindset can perpetuate several myths:
-1. That one's purpose is to complete their assigned "quest" no matter what. 
+1. That one's purpose is to complete their assigned "quest" no matter what.
 2. That one's worth is tied to the difficulty of their "quest".
 3. That the legitimacy of their "quest" is measured by its tangible impact on the world.
 
 The danger of this mindset is that:
-1. It may tempt the pilgrim to take certain shortcuts to complete the journey which may temporarily require violating some of God's principles. 
+1. It may tempt the pilgrim to take certain shortcuts to complete the journey which may temporarily require violating some of God's principles.
 2. It gives a false sense of worth.
 3. It places an unrealistic responsibility on the pilgrim.
 
@@ -70,8 +70,8 @@ God has grace, even when we accomplished nothing.
 | [Elijah](calling/elijah.md)                 | A prophet from Tishbe (1 Kings 17:1)                                                 | To show himself to Ahab so that God would send rain (1 Kings 18:1-2)                                                                              | Direct word from the LORD (1 Kings 18:1)                              | Fire from heaven and the end of the drought (1 Kings 18:38,45)                              | Yes (1 Kings 18:2)                     | Yes (1 Kings 18:39,45)         |
 | Elisha                                      | A farmer (1 Kings 19:19)                                                             | To be Elijah's apprentice (1 Kings 19:20-21) and successor (2 Kings 2:9-14)                                                                       | By the prophet Elijah (1 Kings 19:19-21)                              | Elijah threw his cloak on him (1 Kings 19:19; 2 Kings 2:9-14)                               | Yes (1 Kings 19:21; 2 Kings 2:9-10)    | Yes (2 Kings 2-8)              |
 | Jehu                                        | Commander of the Israeli army                                                        | To become king over Israel (2 Kings 9:1-13)                                                                                                       | By the prophet Elisha (2 Kings 9:1)                                   | Instant favour by all men who heard the news                                                | Didn't believe it (2 Kings 9:11-12)    | Yes (2 Kings 9:13)             |
-| Jonah                                       | A prophet                                                                            | To warn the city of Nineveh of great destruction (Jonah 1:2; 3:1)                                                                                 | Unspecified                                                           | Rescued by a big fish                                                                       | No (Jonah 1:3)                         | Yes (Jonah 3:3-10)             |
-| [Hezekiah](calling/hezekiah.md)             | The king of Judah (2 Kings 18:1)                                                     | Not to surrender (Isaiah 37:21-35)                                                                                                                | By the prophet Isaiah (Isaiah 37:21-35)                               | The Assyrians would leave without firing an arrow                                           | Yes                                    | Yes (2 Kings 19:35-37)         |
+| [Jonah](calling/jonah.md)                   | A prophet (Jonah 1:1)                                                                | To warn the city of Nineveh of great destruction (Jonah 1:2, 3:1)                                                  | Unspecified                                                           | Rescued by a big fish (Jonah 1:17)                                                          | No (Jonah 1:3)                         | Yes (Jonah 3:3-10)             |
+| [Hezekiah](calling/hezekiah.md)             | The king of Judah (2 Kings 18:1)                                                     | Not to surrender (Isaiah 37:21-35)                                                                                 | By the prophet Isaiah (Isaiah 37:21-35)                               | The Assyrians would leave without firing an arrow (Isaiah 37:33-35)                         | Yes                                    | Yes (2 Kings 19:35-37)         |
 | [Jeremiah](calling/jeremiah.md)             | Son of a priest (Jeremiah 1:1)                                                       | To be a prophet to the nations (Jeremiah 1:5)                                                                                                     | God spoke to Jeremiah (Jeremiah 1:4)                                  | The LORD touched Jeremiah's mouth (Jeremiah 1:9)                                            | Doubted (Jeremiah 1:6-7)               | Yes                            |
 | Cyrus                                       | The king of Persia                                                                   | To build the second temple to God (Ezra 1:1-2)                                                                                                    | Unspecified                                                           | He received all the kingdoms of the earth (Ezra 1:2)                                        | Yes                                    | Yes (Ezra 6:15-16)             |
 | [Mary](calling/mary.md)                     | A young engaged Jewish woman (Luke 1:26-27)                                          | To deliver Jesus (Luke 1:28-38)                                                                                                                   | By the angel Gabriel (Luke 1:26-38)                                   | Virgin pregnancy (Luke 1:34-35)                                                             | Yes (Luke 1:26-38)                     | Yes (Matthew 1:23-25)          |
@@ -81,8 +81,8 @@ God has grace, even when we accomplished nothing.
 ### Result of compromising
 
 * Eve: Her "calling" was made harder with birth pain (Genesis 3:16). However, Eve was still able to deliver children to Adam.
-* Adam: Adam was not technically removed because he failed his "calling", but was given another piece of field to complete his "calling". Instead of the abundant garden, Adam had to work the field outside the garden in pain to provide food for his family (Genesis 3:17-19). 
-* Abraham & Sarah: Initially they tried to fulfil their calling with the help of a concubine woman to delivery a child on behalf of Sarah (Genesis 16:1-4). This resulted in contempt (Genesis 16:4-6) and the birth of Ismael the forefather of the Arabs. However, despite their unfaithfulness towards God's promise, God still kept his promise such that Sarah eventually had her own son. 
+* Adam: Adam was not technically removed because he failed his "calling", but was given another piece of field to complete his "calling". Instead of the abundant garden, Adam had to work the field outside the garden in pain to provide food for his family (Genesis 3:17-19).
+* Abraham & Sarah: Initially they tried to fulfil their calling with the help of a concubine woman to delivery a child on behalf of Sarah (Genesis 16:1-4). This resulted in contempt (Genesis 16:4-6) and the birth of Ismael the forefather of the Arabs. However, despite their unfaithfulness towards God's promise, God still kept his promise such that Sarah eventually had her own son.
 * Jacob: Cheated his father and brother to get a blessing to fulfil his calling (Genesis 27). This incident caused Jacob's father to sent him away (Genesis 28:5) and forced Jacob to live in fear of Esau (Genesis 32-33). However, despite Jacob living in exile, Jacob was still blessed to become Israel.
 * Samson: Samson was freely moving around the heart of the Philistines. He could have caused major damage to them if he wanted. Yet, his lustful desires after Philistine women initially prevented him from taking action. At the end, he still caused a major blow to the Philistines which initiated a gradual decline in the Philistine stronghold over Israel by completing his suicide mission.
 * Saul: Saul had to battle against Israel's enemies. God already demonstrated His favour with signs as confirmation (1 Samuel 10:1) that he would be victorious. Yet, Saul rather trusted in people than God. When Saul noticed that his "seer" Samuel does arrive and that his men were forsaking him, he tried to convince them to stay by his own sacrifice which was against the Mosaic laws (Leviticus 1:5; 17:3-4). Therefore, God had to remove Saul descendants from his kingdom (1 Samuel 13:13-14), but despite Saul's disobedience God still gave him victory as promised.
@@ -98,26 +98,26 @@ Sometimes circumstances outside an individual's control leads the person to take
 
 For example, God did not speak directly to Esther nor given her any specials signs, yet Mordecai sent Esther the message:
 
-> “Do not think to yourself that in the king's palace you will escape any more than all the other Jews. For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And **who knows whether you have not come to the kingdom for such a time as this?**” — Esther 4:13-14 (ESV)
+> "Do not think to yourself that in the king's palace you will escape any more than all the other Jews. For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And **who knows whether you have not come to the kingdom for such a time as this?**" — Esther 4:13-14 (ESV)
 
 Esther's position enabled her to save the Jews. One could argue that this was her purpose or "calling". However, there was a high risk that the king would not approve her action and this could have cost Esther her life.
 
 ### Barak
 
-Another example is the situation where Deborah said to Barak "Has not the LORD, the God of Israel, commanded you...". In English, this implies that he ignored a previous command from God. However, some argue this is a typical rhetorical Hebrew question that does not necessary mean Barak had any former commands. 
+Another example is the situation where Deborah said to Barak "Has not the LORD, the God of Israel, commanded you...". In English, this implies that he ignored a previous command from God. However, some argue this is a typical rhetorical Hebrew question that does not necessary mean Barak had any former commands.
 
-Either way, Deborah was the judge (leader) of Israel who had the authority from God to order Barak to obey her prophecy (Judges 4:4-16). These circumstance lead Barak to receive a "calling" to free Israel. 
+Either way, Deborah was the judge (leader) of Israel who had the authority from God to order Barak to obey her prophecy (Judges 4:4-16). These circumstance lead Barak to receive a "calling" to free Israel.
 
 *(This single incident is no proof that it is normal for God to command men through women. Many scriptures rather state that women should submit to men even when the man is "spiritually weaker", for example: Genesis 3:16; 1 Corinthians 11:3; Colossians 3:18; Ephesians 5:22; 1 Peter 3:1)*
 
 ## A godly desire that lead to a calling
 
-> Then I arose in the night, I and a few men with me. And I told no one **what my God had put into my heart to do for Jerusalem**... 
-> 
-> Then I said to them, “You see the trouble we are in, how Jerusalem lies in ruins with its gates burned. Come, let us build the wall of Jerusalem, that we may no longer suffer derision.” 
-> 
-> And I told them of **the hand of my God that had been upon me** for good, and also of the words that the king had spoken to me. And they said, “Let us rise up and build.” So they strengthened their hands for the good work.
-> 
+> Then I arose in the night, I and a few men with me. And I told no one **what my God had put into my heart to do for Jerusalem**...
+>
+> Then I said to them, "You see the trouble we are in, how Jerusalem lies in ruins with its gates burned. Come, let us build the wall of Jerusalem, that we may no longer suffer derision."
+>
+> And I told them of **the hand of my God that had been upon me** for good, and also of the words that the king had spoken to me. And they said, "Let us rise up and build." So they strengthened their hands for the good work.
+>
 > — Nehemiah 2:12,17-18 (ESV)
 
 There are no record of any special visions, dreams, signs or miracles that Nehemiah experienced other than favour from the king and queen. Yet, Nehemiah felt that "God had put into his heart" a desire to rebuilt Jerusalem. Because he trusted that this desire is inline with God's will he had the courage to undertake this massive task.
