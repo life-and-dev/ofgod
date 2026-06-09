@@ -18,12 +18,14 @@ Some would refer to [God's gifts](https://eternal.family.net.za/god/spirit/gifts
 When God gives a specific command, obedience is essential, as disobedience would undermine His authority as Lord (Deuteronomy 25:1-2,15). However, some people view these commands as "quests" that they must complete, which can lead to an unhealthy focus on achievement and success.
 
 This mindset can perpetuate several myths:
+
 1. That one's purpose is to complete their assigned "quest" no matter what. 
 2. That one's worth is tied to the difficulty of their "quest".
 3. That the legitimacy of their "quest" is measured by its tangible impact on the world.
 
 The danger of this mindset is that:
-1. It may tempt the pilgrim to take certain shortcuts to complete the journey which may temporarily require violating some of God's principles. 
+
+1. It may tempt the pilgrim to take certain shortcuts to complete the journey which may temporarily require violating some of God's principles.
 2. It gives a false sense of worth.
 3. It places an unrealistic responsibility on the pilgrim.
 
