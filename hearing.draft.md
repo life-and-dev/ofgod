@@ -10,9 +10,9 @@ Yet, God spoke to Cain while he was angry and planning murder:
 
 > So Cain was **very angry**, and his face fell. **The LORD said** to Cain, “Why are you angry, and why has your face fallen? — Genesis 4:5-6
 
-Another example is Laban planning to capture Jacob and force him back into servitute: 
+Another example is Laban planning to capture Jacob and force him back into servitute:
 
-> When it was told Laban on the third day that Jacob had fled, he took his kinsmen with him and **pursued him** for seven days and followed close after him into the hill country of Gilead. 
+> When it was told Laban on the third day that Jacob had fled, he took his kinsmen with him and **pursued him** for seven days and followed close after him into the hill country of Gilead.
 >
 > But **God came to Laban** the Aramean in a dream by night and said to him, “Be careful not to say anything to Jacob, either good or bad.”
 >

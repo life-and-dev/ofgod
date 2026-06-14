@@ -39,6 +39,7 @@ I encourage you to critically evaluate everything you read. Not just on this web
 Rather than asking you to accept my conclusions, I invite you to examine the Bible for yourself. The content here is designed to point you back to God's word, to raise questions worth pondering, and to provide tools for your own study.
 
 As you explore this site, I encourage you to:
+
 - Test everything against the Scripture (Acts 17:11 (ESV))
 - Ask the Holy Spirit for wisdom and discernment
 - Engage thoughtfully with ideas that might be new to you
