@@ -7,7 +7,7 @@ keywords: YHVH, YHWH, Yahweh, Jehovah, LORD, God's name, Tetragrammaton, Hebrew 
 
 > “My people will know My name; therefore in that day they will know that it is I who foretold it.” — Isaiah 52:6
 
-## YHVH
+## YHWH
 
 > אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם **יְהוָֽה**׃
 
@@ -15,19 +15,36 @@ Which directly translates to:
 
 > Then *[men]* began to call on the name of YHWH. — Genesis 4:26 ([Interlinear](https://biblehub.com/interlinear/genesis/4-26.htm))
 
-The name, יְהוָ֖ה, is the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). Different groups transliterate the third Hebrew letter, ו, differently. **YHWH** is the dominant academic spelling and is common in [encyclopedias](https://www.britannica.com/topic/Yahweh), biblical scholarship, many Christian reference works, and parts of the Hebrew Roots or Sacred Name movements. **YHVH** is common in Jewish-English and Judaic teaching contexts, including [Sefaria](https://www.sefaria.org/topics/the-tetragrammaton), Jewish Mystic or Kabbalah contexts, and some Christian Hebrew teachers such as [Hebrew4Christians](https://hebrew4christians.com/Names_of_G-d/YHVH/yhvh.html#loaded). Jehovah's Witnesses usually write the divine name as **Jehovah**, though their glossary also gives **YHWH** or **JHVH** as possible transliterations. This list gives important examples only; usage varies by community and source.
+The name, יְהוָ֖ה, is the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). Different groups transliterate the third Hebrew letter, ו, differently. 
 
-The vowels are uncertain, and some would pronounce it as "Jehovah" ("J" pronounced as a "y") by substituting the vowel marks for "Adonai" and putting them under the letters of יְהוָ֖ה.
+**YHWH** is the dominant academic spelling and is common in [encyclopedias](https://www.britannica.com/topic/Yahweh), biblical scholarship, many Christian reference works, and parts of the Hebrew Roots or Sacred Name movements. Jehovah's Witnesses usually write the divine name as **Jehovah**, though their [glossary](https://wol.jw.org/en/wol/d/r1/lp-e/1001077415) also gives **YHWH** or **JHVH** as possible transliterations.
+
+**YHVH** is common in Jewish-English and Judaic teaching contexts, including [Sefaria](https://www.sefaria.org/topics/the-tetragrammaton), Jewish Mystic or Kabbalah contexts, and some Christian Hebrew teachers such as [Hebrew4Christians](https://hebrew4christians.com/Names_of_G-d/YHVH/yhvh.html#loaded).
+
+The vowels are uncertain. The traditional English form "Jehovah" developed from reading the consonants of YHWH with vowel points that reminded readers to say "Adonai" instead of pronouncing the sacred name directly. In older English and related languages, the letter "J" was also pronounced more like a "Y" sound.
 
 Others argue that "Jehovah" is incorrect because it combines YHWH with the vowels of Adonai; [Encyclopedia.com](https://www.encyclopedia.com/philosophy-and-religion/judaism/judaism/yahweh) calls "Jehovah" a later misunderstanding and says YHWH ought to be pronounced "Yahweh", while [Britannica](https://www.britannica.com/topic/Yahweh) says scholars now widely use "Yahweh". Some pronounce it "Yahoveh" or just "Yah", the shortened version, but I could not verify a reliable public source for "Yahoveh".
 
-Even "Yahweh" is incorrect because the English language lacks certain Hebrew sounds that are required to pronounce the name like a native Hebrew speaker would. Jeff Benner, an expert on Ancient Hebrew, provides more detail on [how to pronounce the name YHVH](https://www.youtube.com/watch?v=wRsbSLU9oFA).
+Even "Yahweh" is still an approximation because the English language lacks certain Hebrew sounds that are required to pronounce the name like a native Hebrew speaker would. Historically the pronunciation is disputed, linguistically every English rendering is approximate, and different traditions judge different forms as acceptable or unacceptable. Jeff Benner, an expert on Ancient Hebrew, provides more detail on [how to pronounce the name YHVH](https://www.youtube.com/watch?v=wRsbSLU9oFA).
 
 For this reason, I did not add my own vowels to YHVH on this website so that you can pronounce it whichever way you are comfortable with. However, I do find it important to at least differentiate from the English word "lord" to avoid confusion and to provide context of which god a scripture is referring to.
 
+To summarize:
+
+| Term               | Meaning in this article                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tetragrammaton** | The four Hebrew letters יְהוָ֖ה                                                                                                             |
+| **YHWH**           | Tetragrammaton transliteration used by academic, encyclopedias, bible scholars, Hebrew Roots, Sacred Name movements, Jehovah's Witnesses |
+| **YHVH**           | Tetragrammaton transliteration used by Judaic teachings, Jewish Mystic, Kabbalah                                                         |
+| **Yahweh**         | A common scholarly pronunciation, but still an approximation.                                                                            |
+| **Jehovah**        | A traditional English form of the divine name.                                                                                           |
+| **LORD / GOD**     | English Bible conventions often used where the Hebrew text has YHWH.                                                                     |
+
+So the point is not to force one pronunciation on everyone, but to preserve the distinction between God's personal name, His character and His authority, and the more general titles "god" and "lord". A name can identify who is being discussed, while the meaning of that name reveals what He is like and what authority He has.
+
 ## LORD
 
-The Jewish tradition is to avoid pronouncing the sacred name at all. Therefore, some substitute the Tetragrammaton [YHWH](#yhvh) with the word "Adonai" which is translated as "LORD" or "God" in many English Bibles. Usually the translators would use the capitalized words "LORD" or "GOD" to indicate this substitution, however in the New Testament, YHVH's name is substituted with the lowercase "Lord".
+The Jewish tradition is to avoid pronouncing the sacred name at all. Therefore, some read the Tetragrammaton [YHWH](#yhvh) as "Adonai" instead. Many English Bibles normally represent YHWH as "LORD", and they often use "GOD" when YHWH appears together with the Hebrew word "Adonai". Usually the translators would use the capitalized words "LORD" or "GOD" to indicate this substitution, however in the New Testament, YHVH's name is substituted with the lowercase "Lord".
 
 For example, when Moses tries to uniquely identify his God among the foreign gods of the other nations, the translators change God's identity to a generic "lord" which simply means master.
 
@@ -118,8 +135,6 @@ This is possibly a paraphrased quote from Isaiah 52:11:
 >
 > — Isaiah 52:11 (NKJV)
 
-2 Corinthians 6:17-18 is often quoted to prove that Jesus is "the Lord Almighty" confusing the power of [YHVH](#yhvh) with Jesus' power.
-
 ### Lord Jesus
 
 To further add to the confusion, God the Father, [Jesus Christ](https://son.ofgod.info) and the Holy Spirit are all addressed as "Lord" with no clear distinction to which one the author was referring. For example:
@@ -135,6 +150,8 @@ Yet they would translate Paul's words:
 > There is one body and one Spirit, just as you were called in one hope of your calling; **one Lord**, one faith, one baptism; — Ephesians 4:4-5 (NKJV)
 
 Clearly there is now more than one "Lord" in our modern English Bibles. So what could Paul have meant?
+
+2 Corinthians 6:17-18 is often quoted to prove that Jesus is "the Lord Almighty". However, Paul's quotation is built from Old Testament language where the speaker is [YHVH](#yhvh), and the same speaker says, "I will be a father to you." That identifies the speaker as God the Father, not Jesus the Son. Therefore this passage should not be used to confuse YHVH's authority with Jesus' delegated authority.
 
 [Trinitarians](https://son.ofgod.info/trinity) would be quick to point out this "proof" that the Father, the Son and the Holy Spirit are one Lord. If this was true, then "Lord Pilate" (Matthew 27:63), "Lord Agrippa" (Acts 26:19) and all husbands (1 Peter 3:6) should also be included in the ["Trinity"](https://son.ofgod.info/trinity).
 
@@ -185,6 +202,6 @@ Instead of teaching people what to call God, we should rather declare His charac
 
 ## God
 
-Unfortunately, the same word "[god](https://eternal.family.net.za/bible/concepts/god)" could also refer to a mighty human leader or champion, an idol or a heavenly being and the word "lord" could also refer to any human in authority or an [angel](https://eternal.family.net.za/creation/angelic-beings). Therefore, [the Bible translators](https://word.ofgod.info/translations) translated "God" with a capital letter G to indicate that they understood that it refers to the almighty God, or they would use a lowercase letter g to indicate that they understood that it refers to an idol or celebrity. In most cases it is obvious in the context which type of god the author is referring to.
+Unfortunately, the same word "[god](https://eternal.family.net.za/bible/concepts/god)" could also refer to a mighty human leader or champion, an idol or a heavenly being and the word "lord" could also refer to any human in authority or an [angel](https://eternal.family.net.za/creation/angelic-beings). Therefore, [the Bible translators](https://word.ofgod.info/translations) translated "God" with a capital letter G to indicate that they understood that it refers to the almighty God, or they would use a lowercase letter g to indicate that they understood that it refers to an idol, ruler or mighty one. In most cases it is obvious in the context which type of god the author is referring to.
 
-However, we need to be mindful about this matter when we use quoted verses where the context is often lost and, as seen above, it is easy to get confused between which "lord" and which "god" the author is referring to, especially in the all-capitalized Greek New Testament which contains Hebrew quotes in Greek which were translated to English.
+However, we need to be mindful about this matter when we use quoted verses where the context is often lost and, as seen above, it is easy to get confused between which "lord" and which "god" the author is referring to, especially in Greek New Testament manuscripts written in majuscule script, containing Hebrew quotations rendered in Greek and later translated into English.
