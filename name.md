@@ -42,6 +42,7 @@ To summarize:
 | **YHVH**           | Tetragrammaton transliteration used by majority of Judaic teachings, Jewish Mystic and Kabbalah                                                       |
 | **Yahweh**         | A common scholarly pronunciation, but still an approximation.                                                                                         |
 | **Jehovah**        | A traditional English form of the divine name.                                                                                                        |
+| **Yahuah**         | A reconstructionist pronunciation based on Hebrew names like Yehochanan, Yehoshua, etc.                                                               |
 | **LORD / GOD**     | English Bible conventions often used where the Hebrew text has YHWH.                                                                                  |
 
 The point is not to force one pronunciation on everyone, but to preserve the distinction between God's personal name, His character and His authority, and the more general titles "god" and "lord". A name can identify who is being discussed, while the meaning of that name reveals what He is like and what authority He has.
