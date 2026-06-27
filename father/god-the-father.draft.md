@@ -6,7 +6,7 @@ keywords: "God the Father, god, father"
 # Identity
 
 * "LORD my [God](/bible/concepts/god)" / "Adonai Elohim" (Genesis 2:4,7,15,18,21; Genesis 3:1,8,13,21; Exodus 9:30; Deuteronomy 4:35; 2 Samuel 7:25; 2 Kings 19:19; 1 Chronicles 17:16; 2 Chronicles 1:9; 2 Chronicles 6:41; Psalm 72:18; Psalm 84:11; Jonah 4:6)
-* ["YHVH" or "Yahweh" or "Jehovah"](name) (Genesis 2:4-9, 4:26, Psalm 83:18, 118:27; Isaiah 11:2) translated as "[LORD](name)" in the Old Testament and "[Lord](name)" in the New Testament
+* ["YHWH" or "Yahweh" or "Jehovah"](name) (Genesis 2:4-9, 4:26, Psalm 83:18, 118:27; Isaiah 11:2) translated as "[LORD](name)" in the Old Testament and "[Lord](name)" in the New Testament
 * "LORD Most High God" / "Adonai El Elyon" (Genesis 14:22; Psalm 7:17; Psalm 47:2)
 * "Yahweh Yireh" / "Jehovah Jireh" (Genesis 22:2) meaning "God will provide"
 * "LORD who sees" / "Adonai Yir'eh" / "Jehovah Jireh" (Genesis 22:14)

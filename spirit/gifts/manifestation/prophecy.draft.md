@@ -26,7 +26,7 @@ In other words:
 4. To proclaim who or what the LORD favor or not
 5. To give comfort or hope to the sad
 6. To release leaders that can enhance God's Kingdom
-7. To glorify the Lord GOD [YHVH](/god/father/name#yhvh)
+7. To glorify the Lord GOD [YHWH](/god/father/name#yhwh)
 
 # Who can prophesy?
 

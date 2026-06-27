@@ -154,13 +154,13 @@ In Luke 4:17 (NKJV) we read:
 
 Then Jesus quote Isaiah 61:1-2 which are incorrectly quoted in many modern English bibles. A more accurate quote directly from the book of Isaiah 61:1-2 itself reads:
 
-> “The Spirit of **the Lord God** is upon me, because the **LORD** (YHVH) has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the Lord.”
+> “The Spirit of **the Lord God** is upon me, because the **LORD** (YHWH) has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the Lord.”
 
 > Then he *(Jesus)* closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him. And He began to say to them, “Today this Scripture is fulfilled in your hearing.” -- Luke 4:17-21 (NKJV)
 
 Here Jesus himself announced that this prophecy had been fulfilled in their presence which means that Isaiah 61 was talking about Jesus.
 
-If Jesus was the "Lord God" or "YHVH" of the Old Testament, then **why would Jesus have to send his own spirit to himself and why would Jesus anoint himself to preach, heal and proclaim**?
+If Jesus was the "Lord God" or "YHWH" of the Old Testament, then **why would Jesus have to send his own spirit to himself and why would Jesus anoint himself to preach, heal and proclaim**?
 
 ### The Holy Spirit cannot be taught
 
@@ -184,7 +184,7 @@ Jesus said:
 
 Jesus could possibly have referred to scriptures like Psalm 118:
 
-> Oh, give thanks to the LORD *([YHVH](/god/father/name))*, for He is good!
+> Oh, give thanks to the LORD *([YHWH](/god/father/name))*, for He is good!
 > For His mercy endures forever. -- Psalm 118:1
 
 But David also wrote:
@@ -251,7 +251,7 @@ Jesus states here that the Holy Spirit is another Helper and not himself.
 
 and
 
-> I will mention the lovingkindnesses of ***the LORD*** *([YHVH](/god/father/name#YHVH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
+> I will mention the lovingkindnesses of ***the LORD*** *([YHWH](/god/father/name#YHWH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
 > 
 > For He said, “Surely they are My people, Children who will not lie.”
 > 
@@ -266,11 +266,11 @@ and
 > “Where is **He who brought them up out of the sea** with the shepherd of His flock?
 > Where is **He who put His Holy Spirit** within them, **Who led them** by the right hand of Moses, with His glorious arm, **dividing the water before them** to make for Himself an everlasting name, **Who led them through the deep**, as a horse in the wilderness, that they might not stumble?”
 > 
-> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHVH](/god/father/name#YHVH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
+> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHWH](/god/father/name#YHWH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
 > 
 > -- Isaiah 63:7-14 (NKJV)
 
-Here Isaiah says the LORD (YHVH) "brought them out of the sea" and in the next sentence "His Holy Spirit" led them through the sea which implies that the Holy Spirit is the part of the LORD's that interact with His creation.
+Here Isaiah says the LORD (YHWH) "brought them out of the sea" and in the next sentence "His Holy Spirit" led them through the sea which implies that the Holy Spirit is the part of the LORD's that interact with His creation.
 
 #### By Paul
 

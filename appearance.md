@@ -10,13 +10,13 @@ However, the Bible also records several instances where God appeared directly to
 
 It doesn't say that Abraham was dreaming or seeing a vision.
 
-> When Abram was ninety-nine years old **the LORD *[[YHVH](name.md)]* appeared** to Abram and said to him, “I am God Almighty; walk before me, and be blameless, that I may make my covenant between me and you, and may multiply you greatly.” Then Abram fell on his face. And God said to him, "Behold, my covenant is with you, and you shall be the father of a multitude of nations." -- Genesis 17:1-4
+> When Abram was ninety-nine years old **the LORD *[[YHWH](name.md)]* appeared** to Abram and said to him, “I am God Almighty; walk before me, and be blameless, that I may make my covenant between me and you, and may multiply you greatly.” Then Abram fell on his face. And God said to him, "Behold, my covenant is with you, and you shall be the father of a multitude of nations." -- Genesis 17:1-4
 
-Genesis 18 describe the appearance of YHVH like a "man":
+Genesis 18 describe the appearance of YHWH like a "man":
 
 > And the LORD appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. -- Genesis 18:1 (ESV)
 
-We continue reading that [YHVH appeared like a man](https://son.ofgod.info/trinity/abraham-3-visitors) to Abraham. However, some suggest that this "man" could also have been ["the angel of the LORD"](https://son.ofgod.info/son-as-angel) who often appears like a man, but speak and acts on behalf of God.
+We continue reading that [YHWH appeared like a man](https://son.ofgod.info/trinity/abraham-3-visitors) to Abraham. However, some suggest that this "man" could also have been ["the angel of the LORD"](https://son.ofgod.info/son-as-angel) who often appears like a man, but speak and acts on behalf of God.
 
 Even more striking is the group encounter on Mount Sinai:
 
@@ -69,7 +69,7 @@ Some would argue that John meant that no one has really seen God's "unfiltered" 
 Strong's Concordance:
 
 |                   | [Strong's Concordance](https://biblehub.com/greek/3708.htm) |
-|-------------------|-------------------------------------------------------------|
+| ----------------- | ----------------------------------------------------------- |
 | horaó             | to see, perceive, attend to                                 |
 | Original Word     | ὁράω                                                        |
 | Part of Speech    | Verb                                                        |

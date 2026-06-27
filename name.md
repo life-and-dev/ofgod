@@ -1,6 +1,6 @@
 ---
-description: Learn about God's name YHVH, why English Bibles often substitute it with LORD, and why knowing His name means knowing His character and authority.
-keywords: YHVH, YHWH, Yahweh, Jehovah, LORD, God's name, Tetragrammaton, Hebrew Bible
+description: Learn about God's name YHWH, why English Bibles often substitute it with LORD, and why knowing His name means knowing His character and authority.
+keywords: YHWH, YHWH, Yahweh, Jehovah, LORD, God's name, Tetragrammaton, Hebrew Bible
 ---
 
 # God's Name
@@ -19,44 +19,48 @@ The name, יְהוָ֖ה, is the [Tetragrammaton](https://en.wikipedia.org/wiki/
 
 **YHWH** is the dominant academic spelling and is common in [encyclopedias](https://www.britannica.com/topic/Yahweh), biblical scholarship, many Christian reference works, and parts of the Hebrew Roots or Sacred Name movements. Jehovah's Witnesses usually write the divine name as **Jehovah**, though their [glossary](https://wol.jw.org/en/wol/d/r1/lp-e/1001077415) also gives **YHWH** or **JHVH** as possible transliterations.
 
-**YHVH** is common in Jewish-English and Judaic teaching contexts, including [Sefaria](https://www.sefaria.org/topics/the-tetragrammaton), Jewish Mystic or Kabbalah contexts, and some Christian Hebrew teachers such as [Hebrew4Christians](https://hebrew4christians.com/Names_of_G-d/YHVH/yhvh.html#loaded).
+**YHWH** is common in Jewish-English and Judaic teaching contexts, including [Sefaria](https://www.sefaria.org/topics/the-tetragrammaton), Jewish Mystic or Kabbalah contexts, and some Christian Hebrew teachers such as [Hebrew4Christians](https://hebrew4christians.com/Names_of_G-d/YHWH/yhvh.html#loaded).
+
+### Pronounciation
 
 The vowels are uncertain. The traditional English form "Jehovah" developed from reading the consonants of YHWH with vowel points that reminded readers to say "Adonai" instead of pronouncing the sacred name directly. In older English and related languages, the letter "J" was also pronounced more like a "Y" sound.
 
 Others argue that "Jehovah" is incorrect because it combines YHWH with the vowels of Adonai; [Encyclopedia.com](https://www.encyclopedia.com/philosophy-and-religion/judaism/judaism/yahweh) calls "Jehovah" a later misunderstanding and says YHWH ought to be pronounced "Yahweh", while [Britannica](https://www.britannica.com/topic/Yahweh) says scholars now widely use "Yahweh". Some pronounce it "Yahoveh" or just "Yah", the shortened version, but I could not verify a reliable public source for "Yahoveh".
 
-Even "Yahweh" is still an approximation because the English language lacks certain Hebrew sounds that are required to pronounce the name like a native Hebrew speaker would. Historically the pronunciation is disputed, linguistically every English rendering is approximate, and different traditions judge different forms as acceptable or unacceptable. Jeff Benner, an expert on Ancient Hebrew, provides more detail on [how to pronounce the name YHVH](https://www.youtube.com/watch?v=wRsbSLU9oFA).
+Even the most popular "Yahweh" is still an approximation because the English language lacks certain Hebrew sounds that are required to pronounce the name like a native Hebrew speaker would. Historically the pronunciation is disputed, linguistically every English rendering is approximate, and different traditions judge different forms as acceptable or unacceptable. Jeff Benner, an expert on Ancient Hebrew, provides more detail on [how to pronounce the name YHWH](https://www.youtube.com/watch?v=wRsbSLU9oFA).
 
-For this reason, I did not add my own vowels to YHVH on this website so that you can pronounce it whichever way you are comfortable with. However, I do find it important to at least differentiate from the English word "lord" to avoid confusion and to provide context of which god a scripture is referring to.
+Another pronunciation used by some believers is “Yahuah” or “Yah-hoo-ah” because they want to restore what they believe is the original Hebrew sound of the name instead of following later Jewish and Christian traditions. Their pronunciation often comes from seeing “Yah”, “Yahu”, and “-yahu” in Hebrew names, then applying those sounds back to YHWH. Critics respond that the final “-ah” is not certain, because the final Hebrew letter heh does not always represent a clearly pronounced “ah” sound.
+
+Because of this uncertainty, I did not add my own vowels to YHWH on this website so that you can pronounce it whichever way you are comfortable with. However, I do find it important to at least differentiate from the English word "lord" to avoid confusion and provide context of which god a scripture is referring to.
 
 To summarize:
 
-| Term               | Meaning in this article                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tetragrammaton** | The four Hebrew letters יְהוָ֖ה                                                                                                             |
-| **YHWH**           | Tetragrammaton transliteration used by academic, encyclopedias, bible scholars, Hebrew Roots, Sacred Name movements, Jehovah's Witnesses |
-| **YHVH**           | Tetragrammaton transliteration used by Judaic teachings, Jewish Mystic, Kabbalah                                                         |
-| **Yahweh**         | A common scholarly pronunciation, but still an approximation.                                                                            |
-| **Jehovah**        | A traditional English form of the divine name.                                                                                           |
-| **LORD / GOD**     | English Bible conventions often used where the Hebrew text has YHWH.                                                                     |
+| Term               | Meaning in this article                                                                                                                               |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tetragrammaton** | The four Hebrew letters יְהוָ֖ה                                                                                                                          |
+| **YHWH**           | Tetragrammaton transliteration used by majority of academics, encyclopedias, bible scholars, Hebrew Roots, Sacred Name movements, Jehovah's Witnesses |
+| **YHVH**           | Tetragrammaton transliteration used by majority of Judaic teachings, Jewish Mystic and Kabbalah                                                       |
+| **Yahweh**         | A common scholarly pronunciation, but still an approximation.                                                                                         |
+| **Jehovah**        | A traditional English form of the divine name.                                                                                                        |
+| **LORD / GOD**     | English Bible conventions often used where the Hebrew text has YHWH.                                                                                  |
 
-So the point is not to force one pronunciation on everyone, but to preserve the distinction between God's personal name, His character and His authority, and the more general titles "god" and "lord". A name can identify who is being discussed, while the meaning of that name reveals what He is like and what authority He has.
+The point is not to force one pronunciation on everyone, but to preserve the distinction between God's personal name, His character and His authority, and the more general titles "god" and "lord". A name can identify who is being discussed, while the meaning of that name reveals what He is like and what authority He has.
 
 ## LORD
 
-The Jewish tradition is to avoid pronouncing the sacred name at all. Therefore, some read the Tetragrammaton [YHWH](#yhvh) as "Adonai" instead. Many English Bibles normally represent YHWH as "LORD", and they often use "GOD" when YHWH appears together with the Hebrew word "Adonai". Usually the translators would use the capitalized words "LORD" or "GOD" to indicate this substitution, however in the New Testament, YHVH's name is substituted with the lowercase "Lord".
+The Jewish tradition is to avoid pronouncing the sacred name at all. Therefore, some read the Tetragrammaton [YHWH](#yhvh) as "Adonai" instead. Many English Bibles normally represent YHWH as "LORD", and they often use "GOD" when YHWH appears together with the Hebrew word "Adonai". Usually the translators would use the capitalized words "LORD" or "GOD" to indicate this substitution, however in the New Testament, YHWH's name is substituted with the lowercase "Lord".
 
 For example, when Moses tries to uniquely identify his God among the foreign gods of the other nations, the translators change God's identity to a generic "lord" which simply means master.
 
 > “Hear, O Israel: **[The] LORD our God**, **the LORD is one**. You shall love **[the] LORD your God** with all your heart and with all your soul and with all your might. — Deuteronomy 6:4-5 (ESV)
 
-Obviously, any god that you serve is your lord (master). Therefore, the translators turned Moses' important plea, to serve YHVH, into a silly statement. However, when you replace "the LORD" with God's original name, [YHVH](#yhvh), the meaning of Deuteronomy changes to address specifically YHVH and not just any other god (idol).
+Obviously, any god that you serve is your lord (master). Therefore, the translators turned Moses' important plea, to serve YHWH, into a silly statement. However, when you replace "the LORD" with God's original name, [YHWH](#yhvh), the meaning of Deuteronomy changes to address specifically YHWH and not just any other god (idol).
 
 Another example is:
 
 > Thus says the Lord GOD... — Isaiah 28:16 (ESV)
 
-In this case the Hebrew word "adonai" was translated to "Lord", meaning sovereign master or owner, and God's name "YHVH" was replaced with GOD. Although the same English words were used as the above example from Deuteronomy, the meaning is different because in this case Isaiah highlights that YHVH is the sovereign master or owner.
+In this case the Hebrew word "adonai" was translated to "Lord", meaning sovereign master or owner, and God's name "YHWH" was replaced with GOD. Although the same English words were used as the above example from Deuteronomy, the meaning is different because in this case Isaiah highlights that YHWH is the sovereign master or owner.
 
 More examples:
 
@@ -92,7 +96,7 @@ This is a quote from Deuteronomy 32:35-36
 > Their foot shall slip in due time;  
 > For the day of their calamity is at hand,  
 > And the things to come hasten upon them.  
-> For **the LORD** *([YHVH](#yhvh))* will judge His people  
+> For **the LORD** *([YHWH](#yhvh))* will judge His people  
 > And have compassion on His servants.
 
 Another example in Romans 14:11 (ESV):
@@ -103,7 +107,7 @@ Another example in Romans 14:11 (ESV):
 
 This is a quote from Isaiah 45:
 
-> For thus says **the LORD** *([YHVH](#yhvh))*...
+> For thus says **the LORD** *([YHWH](#yhvh))*...
 >
 > By Myself I have sworn; from My mouth has gone out in righteousness a word that shall not return:  
 > To Me every knee shall bow, every tongue shall swear allegiance.
@@ -131,7 +135,7 @@ This is possibly a paraphrased quote from Isaiah 52:11:
 > Depart! Depart! Go out from there,  
 > Touch no unclean thing;  
 > Go out from the midst of her,  
-> Be clean, you who bear the vessels of **the LORD** ([YHVH](#yhvh)).  
+> Be clean, you who bear the vessels of **the LORD** ([YHWH](#yhvh)).  
 >
 > — Isaiah 52:11 (NKJV)
 
@@ -151,7 +155,7 @@ Yet they would translate Paul's words:
 
 Clearly there is now more than one "Lord" in our modern English Bibles. So what could Paul have meant?
 
-2 Corinthians 6:17-18 is often quoted to prove that Jesus is "the Lord Almighty". However, Paul's quotation is built from Old Testament language where the speaker is [YHVH](#yhvh), and the same speaker says, "I will be a father to you." That identifies the speaker as God the Father, not Jesus the Son. Therefore this passage should not be used to confuse YHVH's authority with Jesus' delegated authority.
+2 Corinthians 6:17-18 is often quoted to prove that Jesus is "the Lord Almighty". However, Paul's quotation is built from Old Testament language where the speaker is [YHWH](#yhvh), and the same speaker says, "I will be a father to you." That identifies the speaker as God the Father, not Jesus the Son. Therefore this passage should not be used to confuse YHWH's authority with Jesus' delegated authority.
 
 [Trinitarians](https://son.ofgod.info/trinity) would be quick to point out this "proof" that the Father, the Son and the Holy Spirit are one Lord. If this was true, then "Lord Pilate" (Matthew 27:63), "Lord Agrippa" (Acts 26:19) and all husbands (1 Peter 3:6) should also be included in the ["Trinity"](https://son.ofgod.info/trinity).
 
@@ -186,9 +190,9 @@ Moses wrote:
 
 and
 
-> “**YHVH** bless you and keep you;  
-> **YHVH** make His face shine upon you, and be gracious to you;  
-> **YHVH** lift up His countenance upon you, and give you peace.”  
+> “**YHWH** bless you and keep you;  
+> **YHWH** make His face shine upon you, and be gracious to you;  
+> **YHWH** lift up His countenance upon you, and give you peace.”  
 >
 > “So they shall put My name on the children of Israel, and I will bless them.”
 >

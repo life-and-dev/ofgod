@@ -81,7 +81,7 @@ and
 >
 > -- 1 Corinthians 2:11-16 (ESV)
 
-# Paul implies that the LORD (YHVH) is the Spirit
+# Paul implies that the LORD (YHWH) is the Spirit
 
 > Yes, to this day whenever Moses is read a veil lies over their hearts. But when one turns to the LORD (Deuteronomy 30:10; Psalm 22:27), the veil is removed.
 >

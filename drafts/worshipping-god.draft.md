@@ -271,13 +271,13 @@ Even Jesus fasted:
 
 ## It is commanded
 
-> Ascribe to the LORD the glory due His name; **worship [the LORD](/god/father/name#yhvh)** in the splendor of holiness. -- Psalm 29:2 (ESV)
+> Ascribe to the LORD the glory due His name; **worship [the LORD](/god/father/name#yhwh)** in the splendor of holiness. -- Psalm 29:2 (ESV)
 
 and
 
-> **Exalt [the LORD](/god/father/name#yhvh) our God**; worship at his footstool! Holy is He! -- Psalm 99:5 (ESV)
+> **Exalt [the LORD](/god/father/name#yhwh) our God**; worship at his footstool! Holy is He! -- Psalm 99:5 (ESV)
 
-(The old Testament refers to God as "[YHVH](/god/father/name#yhvh)" translated as LORD in capital letters)
+(The old Testament refers to God as "[YHWH](/god/father/name#yhwh)" translated as LORD in capital letters)
 
 Jesus introduced to the LORD God as "the Father":
 
@@ -285,14 +285,14 @@ Jesus introduced to the LORD God as "the Father":
 
 ## It releases blessings
 
-> You shall serve [the LORD](/god/father/name#yhvh) your God, and **He will bless your bread and your water, and I will take sickness away** from among you. -- Exodus 23:25 (ESV)
+> You shall serve [the LORD](/god/father/name#yhwh) your God, and **He will bless your bread and your water, and I will take sickness away** from among you. -- Exodus 23:25 (ESV)
 
-## Only [YHVH](/god/father/name#yhvh) may be served by Sacrificial Worship
+## Only [YHWH](/god/father/name#yhwh) may be served by Sacrificial Worship
 
-> You shall fear [the LORD](/god/father/name#yhvh) your God and [serve](#serve-god) Him, and shall take oaths in His name. -- Deuteronomy 6:13 (NKJV); Luke 4:8
+> You shall fear [the LORD](/god/father/name#yhwh) your God and [serve](#serve-god) Him, and shall take oaths in His name. -- Deuteronomy 6:13 (NKJV); Luke 4:8
 
 As seen above, there are many forms of worship. 
 
 There are many examples of people who create art, make music, provide gifts (offerings) or even pay obeisance to other people which were **not condemned** according to Bible scriptures. 
 
-However, this verse specifically mention "serve" and in this context to "serve with a life". Worship by **sacrifice** (whether killing something or dedicating a life) may only be done for the LORD ([YHVH](/god/name#yhvh)) our God. All life belongs to God and nothing else.
+However, this verse specifically mention "serve" and in this context to "serve with a life". Worship by **sacrifice** (whether killing something or dedicating a life) may only be done for the LORD ([YHWH](/god/name#yhwh)) our God. All life belongs to God and nothing else.
