@@ -7,7 +7,7 @@ keywords: YHVH, YHWH, Yahweh, Jehovah, LORD, God's name, Tetragrammaton, Hebrew 
 
 > “My people will know My name; therefore in that day they will know that it is I who foretold it.” — Isaiah 52:6
 
-# YHVH
+## YHVH
 
 > אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם **יְהוָֽה**׃
 
@@ -78,7 +78,7 @@ This is a quote from Deuteronomy 32:35-36
 > For **the LORD** *([YHVH](#yhvh))* will judge His people  
 > And have compassion on His servants.
 
-Another example in Romans 14:11:
+Another example in Romans 14:11 (ESV):
 
 > for it is written,
 >
@@ -88,10 +88,10 @@ This is a quote from Isaiah 45:
 
 > For thus says **the LORD** *([YHVH](#yhvh))*...
 >
-> By myself I have sworn; from My mouth has gone out in righteousness a word that shall not return:  
+> By Myself I have sworn; from My mouth has gone out in righteousness a word that shall not return:  
 > To Me every knee shall bow, every tongue shall swear allegiance.
 >
-> — Isaiah 45:18,22 (ESV)
+> — Isaiah 45:18,23 (ESV)
 
 As you can see from the above examples, it is easy to confuse Jesus' words and God's words. Modern Bible translations often blur God the Father's and Jesus' personalities, authorities and roles.
 
@@ -161,7 +161,7 @@ The Greek word "kurios" means Lord. That same word which substitutes God's name 
 
 That is why it is important to indicate to which "lord" one is referring. For example in a mixed community of different religions, everyone could serve a "lord", although they most likely would be serving different lords.
 
-# Knowing God's name
+## Knowing God's name
 
 Moses wrote:
 
@@ -183,7 +183,7 @@ However, the Hebrew word [שֵׁם ("shem")](https://biblehub.com/hebrew/8034.ht
 
 Instead of teaching people what to call God, we should rather declare His character (who He is) and His authority (what He does or will do) in all the earth and teach our children to do the same.
 
-# God
+## God
 
 Unfortunately, the same word "[god](https://eternal.family.net.za/bible/concepts/god)" could also refer to a mighty human leader or champion, an idol or a heavenly being and the word "lord" could also refer to any human in authority or an [angel](https://eternal.family.net.za/creation/angelic-beings). Therefore, [the Bible translators](https://word.ofgod.info/translations) translated "God" with a capital letter G to indicate that they understood that it refers to the almighty God, or they would use a lowercase letter g to indicate that they understood that it refers to an idol or celebrity. In most cases it is obvious in the context which type of god the author is referring to.
 
