@@ -2,7 +2,7 @@
 description: Learn about the author's journey from doubt to faith and the mission behind this website exploring God's character.
 ---
 
-# About the author
+# About
 
 Have you ever struggled with questions about who God really is? You're not alone. Many of us have wrestled with doubts, and sadly, some have walked away from faith altogether — not because they rejected God, but because they had a distorted picture of His true character.
 
