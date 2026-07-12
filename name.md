@@ -15,7 +15,7 @@ Which directly translates to:
 
 > Then *[men]* began to call on the name of YHWH. — Genesis 4:26 ([Interlinear](https://biblehub.com/interlinear/genesis/4-26.htm))
 
-The name, יְהוָ֖ה, is the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). Different groups transliterate the third Hebrew letter, ו, differently. 
+The name, יְהוָ֖ה, is the [Tetragrammaton](https://en.wikipedia.org/wiki/Tetragrammaton). Different groups transliterate the third Hebrew letter, ו, differently.
 
 **YHWH** is the dominant academic spelling and is common in [encyclopedias](https://www.britannica.com/topic/Yahweh), biblical scholarship, many Christian reference works, and parts of the Hebrew Roots or Sacred Name movements. Jehovah's Witnesses usually write the divine name as **Jehovah**, though their [glossary](https://wol.jw.org/en/wol/d/r1/lp-e/1001077415) also gives **YHWH** or **JHVH** as possible transliterations.
 
@@ -49,13 +49,13 @@ The point is not to force one pronunciation on everyone, but to preserve the dis
 
 ## LORD
 
-The Jewish tradition is to avoid pronouncing the sacred name at all. Therefore, some read the Tetragrammaton [YHWH](#yhvh) as "Adonai" instead. Many English Bibles normally represent YHWH as "LORD", and they often use "GOD" when YHWH appears together with the Hebrew word "Adonai". Usually the translators would use the capitalized words "LORD" or "GOD" to indicate this substitution, however in the New Testament, YHWH's name is substituted with the lowercase "Lord".
+The Jewish tradition is to avoid pronouncing the sacred name at all. Therefore, some read the Tetragrammaton [YHWH](#yhwh) as "Adonai" instead. Many English Bibles normally represent YHWH as "LORD", and they often use "GOD" when YHWH appears together with the Hebrew word "Adonai". Usually the translators would use the capitalized words "LORD" or "GOD" to indicate this substitution, however in the New Testament, YHWH's name is substituted with the lowercase "Lord".
 
 For example, when Moses tries to uniquely identify his God among the foreign gods of the other nations, the translators change God's identity to a generic "lord" which simply means master.
 
 > “Hear, O Israel: **[The] LORD our God**, **the LORD is one**. You shall love **[the] LORD your God** with all your heart and with all your soul and with all your might. — Deuteronomy 6:4-5 (ESV)
 
-Obviously, any god that you serve is your lord (master). Therefore, the translators turned Moses' important plea, to serve YHWH, into a silly statement. However, when you replace "the LORD" with God's original name, [YHWH](#yhvh), the meaning of Deuteronomy changes to address specifically YHWH and not just any other god (idol).
+Obviously, any god that you serve is your lord (master). Therefore, the translators turned Moses' important plea, to serve YHWH, into a silly statement. However, when you replace "the LORD" with God's original name, [YHWH](#yhwh), the meaning of Deuteronomy changes to address specifically YHWH and not just any other god (idol).
 
 Another example is:
 
@@ -83,7 +83,7 @@ Jesus was quoting the [Shema](https://son.ofgod.info/shema):
 
 which transliterates to:
 
-> "Hear Israel, *[Yahweh](#yhvh)* our [God](/god) **[Yahweh](#yhvh) is one**." — Deuteronomy 6:4 ([Interlinear](https://biblehub.com/interlinear/deuteronomy/6-4.htm))
+> "Hear Israel, *[Yahweh](#yhwh)* our [God](/god) **[Yahweh](#yhwh) is one**." — Deuteronomy 6:4 ([Interlinear](https://biblehub.com/interlinear/deuteronomy/6-4.htm))
 
 Another example in Romans 12:19
 
@@ -97,7 +97,7 @@ This is a quote from Deuteronomy 32:35-36
 > Their foot shall slip in due time;  
 > For the day of their calamity is at hand,  
 > And the things to come hasten upon them.  
-> For **the LORD** *([YHWH](#yhvh))* will judge His people  
+> For **the LORD** *([YHWH](#yhwh))* will judge His people  
 > And have compassion on His servants.
 
 Another example in Romans 14:11 (ESV):
@@ -108,7 +108,7 @@ Another example in Romans 14:11 (ESV):
 
 This is a quote from Isaiah 45:
 
-> For thus says **the LORD** *([YHWH](#yhvh))*...
+> For thus says **the LORD** *([YHWH](#yhwh))*...
 >
 > By Myself I have sworn; from My mouth has gone out in righteousness a word that shall not return:  
 > To Me every knee shall bow, every tongue shall swear allegiance.
@@ -136,7 +136,7 @@ This is possibly a paraphrased quote from Isaiah 52:11:
 > Depart! Depart! Go out from there,  
 > Touch no unclean thing;  
 > Go out from the midst of her,  
-> Be clean, you who bear the vessels of **the LORD** ([YHWH](#yhvh)).  
+> Be clean, you who bear the vessels of **the LORD** ([YHWH](#yhwh)).  
 >
 > — Isaiah 52:11 (NKJV)
 
@@ -156,7 +156,7 @@ Yet they would translate Paul's words:
 
 Clearly there is now more than one "Lord" in our modern English Bibles. So what could Paul have meant?
 
-2 Corinthians 6:17-18 is often quoted to prove that Jesus is "the Lord Almighty". However, Paul's quotation is built from Old Testament language where the speaker is [YHWH](#yhvh), and the same speaker says, "I will be a father to you." That identifies the speaker as God the Father, not Jesus the Son. Therefore this passage should not be used to confuse YHWH's authority with Jesus' delegated authority.
+2 Corinthians 6:17-18 is often quoted to prove that Jesus is "the Lord Almighty". However, Paul's quotation is built from Old Testament language where the speaker is [YHWH](#yhwh), and the same speaker says, "I will be a father to you." That identifies the speaker as God the Father, not Jesus the Son. Therefore this passage should not be used to confuse YHWH's authority with Jesus' delegated authority.
 
 [Trinitarians](https://son.ofgod.info/trinity) would be quick to point out this "proof" that the Father, the Son and the Holy Spirit are one Lord. If this was true, then "Lord Pilate" (Matthew 27:63), "Lord Agrippa" (Acts 26:19) and all husbands (1 Peter 3:6) should also be included in the ["Trinity"](https://son.ofgod.info/trinity).
 
@@ -187,17 +187,20 @@ That is why it is important to indicate to which "lord" one is referring. For ex
 
 Moses wrote:
 
-> “But indeed for this purpose I have raised you up, that I may show My power in you, and that My name may be declared in all the earth.” — Exodus 9:16 (NKJV)
+> “But indeed **for this purpose I have raised you up**, that I may show My power in you, and that **My name may be declared** in all the earth.” — Exodus 9:16 (NKJV)
 
 and
 
-> “**YHWH** bless you and keep you;  
-> **YHWH** make His face shine upon you, and be gracious to you;  
-> **YHWH** lift up His countenance upon you, and give you peace.”  
+> Then Yahweh spoke to Moses, saying, “Speak to Aaron and to his sons, saying, ‘Thus you shall bless the sons of Israel. You shall say to them:
 >
-> “So they shall put My name on the children of Israel, and I will bless them.”
+> Yahweh bless you, and keep you;  
+> Yahweh make His face shine on you,  
+> And be gracious to you; Yahweh lift up His face on you,  
+> And give you peace.’
 >
-> — Numbers 6:24-27 (NKJV)
+> So they shall **invoke My name on the sons of Israel**, and I then will bless them.”
+>
+> — Numbers 6:22-27 (LSB)
 
 For most English readers this would make no sense because in the Western culture a name is simply a designation to identify someone or something.
 
