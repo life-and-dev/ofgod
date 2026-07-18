@@ -1,6 +1,13 @@
+---
+description: A careful look at common beliefs about hearing God, showing that He speaks in many ordinary and unexpected moments.
+keywords: hearing god, divine guidance, biblical listening, spiritual discernment, visions, prayer
+---
+
 # Hearing God's Voice
 
-## Myth: You must first cleanse yourself with blood of Jesus
+## Addressing the Myths
+
+### Myth: You must first cleanse yourself with blood of Jesus
 
 There are many prescriptions for priests to cleanse themselves before they may enter into the presence of the Holy God.
 
@@ -22,7 +29,7 @@ Another example is Balaam, an evil prophet sent to curse Israel who were interce
 
 None of these people cleansed themselves with the blood of Jesus before God was able to speak to them.
 
-## Myth: You must first do religious preparation
+### Myth: You must first do religious preparation
 
 Some claim that people first need to repent, serve a worship sacrifice, praise God well enough before God will speak to them.
 
@@ -36,7 +43,11 @@ There are [many more such examples](calling.md) like:
 * [Gideon](calling/gideon.md) was hiding in fear (Judges 6)
 * [Samson](calling/samson.md) was not born yet (Judges 13:1-9)
 
-## Myth: You must have an expectation (faith) before God will speak
+Some would argue but that is Old Testament. Things have changed after Jesus' crucifixion.
+
+Acts 27 records how Paul was imprisoned on a ship caught in a storm. All hope of being saved was lost (Acts 27:20). Yet in this state of panic and chaos, not religious worship service, God spoke to Paul. (Acts 27)
+
+### Myth: You must have an expectation (faith) before God will speak
 
 It is written of Samuel's days that:
 
@@ -49,16 +60,18 @@ God spoke to Samuel:
 
 Both [Moses](calling/moses.md) (Exodus 3) and [Gideon](calling/gideon.md) (Judges 6) were initially sceptical about God's plan.
 
-## Myth: Visions seized after Pentacost
+A New Testament example would be Peter's witness: He was sleeping in a prison when an angel woke him to escape. Even while Peter was escaping he thought he was experiencing a vision and did not believe he was truly escaping until he was free (Acts 12:6-11).
+
+### Myth: Visions seized after Pentacost
 
 Yet after Pentacost was (Acts 2:1-4) the following happened:
 
 - Ananias saw a vision (Acts 9:10)
-- Saul/Paul saw multiple visions (Acts 9:12, 16:9, 18:9, 26:19; 2 Corinthians 12:1)
+- Saul/Paul saw multiple visions (Acts 9:12, 16:9, 18:9, 26:19, 27:23; 2 Corinthians 12:1)
 - Peter saw a vision (Acts 10)
 - John wrote the book of Revelation based on a vision
 
-## Myth: You must first be in awe before God will speak
+### Myth: You must first be in awe before God will speak
 
 God, who was already speaking, had to ask Moses to remove his sandles which is common understood as a sign of disrespect. This event happened while Moses was already standing on "holy ground".
 
@@ -70,7 +83,7 @@ God, who was already speaking, had to ask Moses to remove his sandles which is c
 >
 > — Exodus 3:4-5 (ESV)
 
-## Myth: God is not speaking unless you experience His presence
+### Myth: God is not speaking unless you experience His presence
 
 God does not always appear in a spectacular event or form. Paul taught:
 
