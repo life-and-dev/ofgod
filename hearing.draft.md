@@ -24,22 +24,30 @@ None of these people cleansed themselves with the blood of Jesus before God was 
 
 ## Myth: You must first do religious preparation
 
-Some claim that people first need to repent, cleanse themselves with the blood of Jesus, serve a worship sacrifice, praise God enough, and have enough faith/trust/expectation before God will speak to them.
+Some claim that people first need to repent, serve a worship sacrifice, praise God well enough before God will speak to them.
 
-For example:
+For example: The prophet Habakkuk deliberately set himself apart to listen to God (Habakkuk 2:1-2)
 
-- The prophet Habakkuk deliberately set himself apart to listen to God (Habakkuk 2:1-2)
+There are [many more such examples](calling.md) like:
 
-Yet, we have examples like Samuel:
+* [Abraham](calling/abraham+isaac.md) was a Chaldeans, serving other gods (Joshua 24:2)
+* [Jacob](calling/jacob.md) was sleeping on a stone
+* Both [Moses](calling/moses.md) (Exodus 3:1-10) and [David](calling/david.md) (1 Samuel 16:1-12) were in the field attending to sleep
+* [Gideon](calling/gideon.md) was hiding in fear (Judges 6)
+* [Samson](calling/samson.md) was not born yet (Judges 13:1-9)
 
-> And **[the word](https://word.ofgod.info) of the LORD was rare in those days**; there was **no frequent vision** -- 1 Samuel 3:1 (ESV)
+## Myth: You must have an expectation (faith) before God will speak
+
+It is written of Samuel's days that:
+
+> **[The word](https://word.ofgod.info) of the LORD was rare in those days**; there was **no frequent vision** -- 1 Samuel 3:1 (ESV)
 
 God spoke to Samuel:
 
 - While he was trying to **sleep** (1 Samuel 3:3)
 - While he was **not expecting** to hear God and mistook God's voice for Eli's (1 Samuel 3:4-5) 3 times (1 Saumel 3:8).
 
-There are [many more such examples](calling.md) like [Abraham](calling/abraham+isaac.md), [Gideon](calling/gideon.md), [Moses](calling/moses.md), etc.
+Both [Moses](calling/moses.md) (Exodus 3) and [Gideon](calling/gideon.md) (Judges 6) were initially sceptical about God's plan.
 
 ## Myth: Visions seized after Pentacost
 
@@ -49,10 +57,6 @@ Yet after Pentacost was (Acts 2:1-4) the following happened:
 - Saul/Paul saw multiple visions (Acts 9:12, 16:9, 18:9, 26:19; 2 Corinthians 12:1)
 - Peter saw a vision (Acts 10)
 - John wrote the book of Revelation based on a vision
-
-## Myth: You first need to have faith then God will speak
-
-Both [Moses](calling/moses.md) (Exodus 3) and [Gideon](calling/gideon.md) (Judges 6) were initially sceptical about God's plan.
 
 ## Myth: You must first be in awe before God will speak
 

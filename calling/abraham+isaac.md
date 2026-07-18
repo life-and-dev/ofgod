@@ -19,8 +19,8 @@ Abraham was a wealthy nomad living in Canaan (Genesis 13:2). He did nothing spec
 
 The LORD spoke to Abraham to establish a covenant and later to test the priority of his love. God communicated directly with him, providing both a great promise and a difficult command.
 
-> Now the LORD said to Abram, "Go from your country and your kindred and your father's house to the land that I will show you. And **I will make of you a great nation**, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed." 
-> 
+> Now the LORD said to Abram, "Go from your country and your kindred and your father's house to the land that I will show you. And **I will make of you a great nation**, and I will bless you and make your name great, so that you will be a blessing. I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
+>
 > — Genesis 12:1-3 (ESV)
 
 Yet, dispite promising that Abram will have children...
@@ -28,7 +28,7 @@ Yet, dispite promising that Abram will have children...
 > God tested Abraham and said to him, “Abraham!”  
 > And he said, “Here I am.”  
 > He said, “Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and **offer him there as a burnt offering** on one of the mountains of which I shall tell you.”
-> 
+>
 > — Genesis 22:1-2 (ESV)
 
 ## The Necessary Sacrifice
