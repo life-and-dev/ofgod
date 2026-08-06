@@ -29,7 +29,7 @@ Others argue that "Jehovah" is incorrect because it combines YHWH with the vowel
 
 Even the most popular "Yahweh" is still an approximation because the English language lacks certain Hebrew sounds that are required to pronounce the name like a native Hebrew speaker would. Historically the pronunciation is disputed, linguistically every English rendering is approximate, and different traditions judge different forms as acceptable or unacceptable. Jeff Benner, an expert on Ancient Hebrew, provides more detail on [how to pronounce the name YHWH](https://www.youtube.com/watch?v=wRsbSLU9oFA).
 
-Another pronunciation used by some believers is “Yahuah” or “Yah-hoo-ah” because they want to restore what they believe is the original Hebrew sound of the name instead of following later Jewish and Christian traditions. Their pronunciation often comes from seeing “Yah”, “Yahu”, and “-yahu” in Hebrew names, then applying those sounds back to YHWH. Critics respond that the final “-ah” is not certain, because the final Hebrew letter heh does not always represent a clearly pronounced “ah” sound.
+Another pronunciation used by some believers is “Yahuah” or “Yah-hoo-ah” because they want to restore what they believe is the original Hebrew sound of the name instead of following later Jewish and Christian traditions. Their pronunciation often comes from seeing Yah, Yahu, or -yahu sounds in Hebrew names such as Aviyah (אֲבִיָּה), Eliyahu (אֵלִיָּהוּ), Yeshayahu (יְשַׁעְיָהוּ), and Yirmeyahu (יִרְמְיָהוּ), then applying those sounds back to YHWH. These name patterns motivate this view but do not establish YHWH's pronunciation. Critics respond that the final “-ah” is not certain, because the final Hebrew letter heh does not always represent a clearly pronounced “ah” sound.
 
 Because of this uncertainty, I did not add my own vowels to YHWH on this website so that you can pronounce it whichever way you are comfortable with. However, I do find it important to at least differentiate from the English word "lord" to avoid confusion and provide context of which god a scripture is referring to.
 
@@ -42,7 +42,7 @@ To summarize:
 | **YHVH**           | Tetragrammaton transliteration used by majority of Judaic teachings, Jewish Mystic and Kabbalah                                                       |
 | **Yahweh**         | A common scholarly pronunciation, but still an approximation.                                                                                         |
 | **Jehovah**        | A traditional English form of the divine name.                                                                                                        |
-| **Yahuah**         | A reconstructionist pronunciation based on Hebrew names like Yehochanan, Yehoshua, etc.                                                               |
+| **Yahuah**         | A reconstructionist pronunciation motivated by Hebrew names with Yah, Yahu, or -yahu sounds.                                                          |
 | **LORD / GOD**     | English Bible conventions often used where the Hebrew text has YHWH.                                                                                  |
 
 The point is not to force one pronunciation on everyone, but to preserve the distinction between God's personal name, His character and His authority, and the more general titles "god" and "lord". A name can identify who is being discussed, while the meaning of that name reveals what He is like and what authority He has.
