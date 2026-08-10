@@ -5,6 +5,8 @@ keywords: "Misconception about the Holy Spirit, god, spirit, what-is-spirit, not
 
 # What we know about the Holy Spirit
 
+This project understands the Holy Spirit as God's active Spirit, power, presence, and way of acting, proceeding from the Father. It is not Jesus Himself or a separate coequal person. Nicene Christianity understands the Spirit as a distinct divine person fully sharing the one divine essence with Father and Son, not a mode, creature, or divine part.
+
 ## There can only be 1 Holy Spirit
 
 Paul understood there are only one Holy Spirit:
@@ -23,9 +25,9 @@ and
 
 > There is
 > * one body and **one Spirit** (just as you were called to the one hope that belongs to your call)
-> * one [Lord](/god/son/christ),
-> * one [faith](/eternal/saved/belief),
-> * one [baptism](/eternal/saved/baptize),
+> * one [Lord](../../../kingdom/christ.md),
+> * one [faith](../../../kingdom/drafts/saved/belief-the-lord.md),
+> * one [baptism](../../../kingdom/drafts/saved/baptize/baptism-formula.md),
 > * one God and Father of all, who is over all and through all and in all.
 >
 > -- Ephesians 4:4-6 (ESV)
@@ -64,20 +66,18 @@ and
 > "Who do men say that I, the Son of Man, am?"<br>
 > So they said, "Some say John the Baptist, some Elijah, and others Jeremiah or one of the prophets."<br>
 > He said to them, "But who do you say that I am?"<br>
-> Simon Peter answered and said, "You are [the Christ](/god/son/christ), the Son of the living God."<br>
+> Simon Peter answered and said, "You are [the Christ](../../../kingdom/christ.md), the Son of the living God."<br>
 > Jesus answered and said to him, "Blessed are you, Simon Bar-Jonah, for **flesh and blood has not revealed this to you, but my Father who is in heaven**. And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it. And I will give you the keys of the kingdom of heaven, and whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
 >
 > -- Matthew 16:13-19 (NKJV)"
 
 # What the Holy Spirit is not
 
-## The Holy Spirit cannot be an impersonal power
-
-Power cannot "fellowship":
+## The Holy Spirit is not merely an impersonal power
 
 > The grace of the Lord Jesus Christ and the love of God and **the fellowship** of the Holy Spirit be with you all. -- 2 Corinthians 13:14 (ESV)
 
-The Holy Spirit has a personality (Acts 5:3), mind (1 Corinthians 2:10) and will (1 Corinthians 12:4-7).
+The evidence includes fellowship, speech, teaching, grief, agency, mind, will, and intercession (Acts 5:3; John 14:26; Ephesians 4:30; 1 Corinthians 2:10; 12:4-7; Romans 8:26-27). Nicene readers take this as evidence for the distinct personal Spirit. This project does not reduce the Spirit to a mere force: it understands this as God's own active, personal presence and action. Scripture can speak personally of God's activity, and it also personifies Wisdom, sin, and death; personal wording alone does not establish a separate coequal person.
 
 ## The Holy Spirit cannot be a unity of believers
 
@@ -111,7 +111,7 @@ and
 
 > Now when all the people were baptized, and when Jesus also had been baptized and was praying, **the heavens were opened, and the Holy Spirit descended on him in bodily form, like a dove**. -- Luke 3:21-22 (ESV)
 
-Just because the Holy Spirit could appear like an angel or "dove", does not mean he is an angel and that these scriptures refers to the same event.
+The Spirit's dove-like appearance does not make the Spirit an angel.
 
 The Holy Spirit is omnipresent:
 
@@ -129,16 +129,11 @@ But the angels are not omnipresent:
 
 > Then he said to me, “Fear not, Daniel, for from the first day that you set your heart to understand and humbled yourself before your God, your words have been heard, and I have come because of your words. The prince of the kingdom of Persia withstood me twenty-one days, but Michael, one of the chief princes, came to help me, for I was left there with the kings of Persia, and came to make you understand what is to happen to your people hin the latter days. -- Daniel 10:12-14 (ESV)
 
-## The Holy Spirit cannot be a separate agent of God
+## The Holy Spirit cannot be a separate coequal person from the Father
 
 > When his mother Mary had been betrothed to Joseph, before they came together she was found **to be with child from the Holy Spirit**. -- Matthew 1:18 (ESV)
 
-If the Holy Spirit is an agent of God, then:
-* It would mean Jesus is not the "Son of God", but the "Son of the Holy Spirit". We know this is not true (Matthew 3:16-17 (ESV); Luke 3:21; John 1:51).
-* Jesus would have addressed the Holy Spirit as "my lord", "my father", "my brother", "my teacher", "my friend" or something of the like. He never explains his relationship with the Holy Spirit, nor does he ever talk or pray to the Holy Spirit. This implies:
-  * If we were supposed to build a relationship with the Holy Spirit in some unique way, Jesus would have showed us how.
-  * Or the Holy Spirit is Jesus himself. So if Jesus had talked to the Holy Spirit, he would have talked to himself.
-  * Or the Holy Spirit is God the Father or at least the omnipresent Spirit part of God which He "sends" to interact with His creation like a human dad would reach out with his hands to help his children. So in the case of Mary, [she would not have been able to survive if the full glory of God appearance](/god/father/appearance), but she did survive the Holy Spirit of God which is perfectly capable to interact with creation.
+The conception accounts call Jesus the Son of God while describing the Spirit and the power of the Most High coming upon Mary. This project reads this as the Father acting through His Spirit, not as another father. Jesus was anointed, followed, and led by the Spirit (Luke 3:22; 4:1, 18), and later promised to send the Spirit from the Father (John 15:26). These distinctions show that Jesus is not the Spirit without requiring a separate coequal person. Mary encountered God's active presence, not God's unveiled glory; see [God's appearance](../../appearance.md).
 
 ## The Holy Spirit cannot be Jesus himself
 
@@ -152,7 +147,7 @@ In Luke 4:17 (NKJV) we read:
 
 > And he *(Jesus)* was handed the book of the prophet Isaiah. And when he had opened the book, he found the place where it was written:
 
-Then Jesus quote Isaiah 61:1-2 which are incorrectly quoted in many modern English bibles. A more accurate quote directly from the book of Isaiah 61:1-2 itself reads:
+Then Jesus quoted Isaiah 61:1-2:
 
 > “The Spirit of **the Lord God** is upon me, because the **LORD** (YHWH) has anointed me to preach good tidings to the poor; He has sent me to heal the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to those who are bound; To proclaim the acceptable year of the Lord.”
 
@@ -160,7 +155,7 @@ Then Jesus quote Isaiah 61:1-2 which are incorrectly quoted in many modern Engli
 
 Here Jesus himself announced that this prophecy had been fulfilled in their presence which means that Isaiah 61 was talking about Jesus.
 
-If Jesus was the "Lord God" or "YHWH" of the Old Testament, then **why would Jesus have to send his own spirit to himself and why would Jesus anoint himself to preach, heal and proclaim**?
+The passage distinguishes the LORD God, His Spirit, and the Messiah who receives the anointing. This project reads the Father as anointing Jesus through His Spirit; Nicene readers also distinguish Son and Spirit while affirming shared divine essence.
 
 ### The Holy Spirit cannot be taught
 
@@ -174,7 +169,7 @@ vs
 
 > And Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil. -- Luke 4:1-2 (ESV); Matthew 4:1; Mark 1:12
 
-Why would Jesus lead himself?
+Jesus follows the Spirit's leading; this distinguishes Jesus from God's Spirit.
 
 ### The Holy Spirit is good
 
@@ -184,7 +179,7 @@ Jesus said:
 
 Jesus could possibly have referred to scriptures like Psalm 118:
 
-> Oh, give thanks to the LORD *([YHWH](/god/father/name))*, for He is good!
+> Oh, give thanks to the LORD *([YHWH](../../name.md#yhwh))*, for He is good!
 > For His mercy endures forever. -- Psalm 118:1
 
 But David also wrote:
@@ -203,7 +198,7 @@ If the Holy Spirit was some sort of reincarnation of Jesus, then the Holy Spirit
 > "Who do men say that I, the Son of Man, am?"<br>
 > So they said, "Some say John the Baptist, some Elijah, and others Jeremiah or one of the prophets."<br>
 > He said to them, "But who do you say that I am?"<br>
-> Simon Peter answered and said, "You are [the Christ](/god/son/christ), the Son of the living God."<br>
+> Simon Peter answered and said, "You are [the Christ](../../../kingdom/christ.md), the Son of the living God."<br>
 > Jesus answered and said to him, "Blessed are you, Simon Bar-Jonah, for **flesh and blood has not revealed this to you, but my Father who is in heaven**. And I also say to you that you are Peter, and on this rock I will build My church, and the gates of Hades shall not prevail against it. And I will give you the keys of the kingdom of heaven, and whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
 >
 > -- Matthew 16:13-19 (NKJV)"
@@ -222,6 +217,8 @@ John explains:
 ### Jesus did not raise himself from the dead
 
 > If **the Spirit of Him** who raised Jesus from the dead dwells in you, **He who raised Christ Jesus from the dead** will also give life to your mortal bodies through **His Spirit** who dwells in you. -- Romans 8:11 (ESV)
+
+The Father raised Jesus through His Spirit. This agrees with language that Christ was "made alive in the Spirit" (1 Peter 3:18): it describes the Father's life-giving action through His active presence, not a separate resurrection agent.
 
 ### Jesus is with the Father
 
@@ -251,7 +248,7 @@ Jesus states here that the Holy Spirit is another Helper and not himself.
 
 and
 
-> I will mention the lovingkindnesses of ***the LORD*** *([YHWH](/god/father/name#YHWH))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
+> I will mention the lovingkindnesses of ***the LORD*** *([YHWH](../../name.md#yhwh))* and the praises of ***the LORD***, according to all that ***the LORD*** has bestowed on us, and the great goodness toward the house of Israel, which He has bestowed on them according to His mercies, according to the multitude of His lovingkindnesses.
 > 
 > For He said, “Surely they are My people, Children who will not lie.”
 > 
@@ -266,11 +263,11 @@ and
 > “Where is **He who brought them up out of the sea** with the shepherd of His flock?
 > Where is **He who put His Holy Spirit** within them, **Who led them** by the right hand of Moses, with His glorious arm, **dividing the water before them** to make for Himself an everlasting name, **Who led them through the deep**, as a horse in the wilderness, that they might not stumble?”
 > 
-> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHWH](/god/father/name#YHWH))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
+> As a beast goes down into the valley, and **the Spirit of the LORD** *([YHWH](../../name.md#yhwh))* causes him to rest, so You lead Your people, to make Yourself a glorious name. 
 > 
 > -- Isaiah 63:7-14 (NKJV)
 
-Here Isaiah says the LORD (YHWH) "brought them out of the sea" and in the next sentence "His Holy Spirit" led them through the sea which implies that the Holy Spirit is the part of the LORD's that interact with His creation.
+Isaiah attributes the rescue to the LORD and describes His Holy Spirit leading the people. This project reads this as the Father acting through His own Spirit, power, and presence, not through a divine part.
 
 #### By Paul
 
@@ -280,7 +277,7 @@ Here Isaiah says the LORD (YHWH) "brought them out of the sea" and in the next s
 
 > **The grace of the Lord Jesus Christ** and the love of God and **the fellowship of the Holy Spirit** be with you all. -- 2 Corinthians 13:14
 
-Perhaps Paul meant the Holy Spirit is the part of Jesus that is omnipresent with us and when he refers to Lord Jesus Christ, he means his the Lord Jesus Christ as person. In other words he could have meant *"May the grace of the Lord Jesus Christ and the love of God be with you all by fellowship through their Spirit"*.
+Paul distinguishes the Lord Jesus Christ, God, and the fellowship of the Holy Spirit. This project understands fellowship "of the Spirit" as sharing in God's active presence, not as Jesus' part or a separate coequal person.
 
 ### However!
 
@@ -304,7 +301,7 @@ So, how can both the Spirit and Jesus be mediating if there is supposed to be on
 
 Both have different roles:
 
-* The Spirit intercedes for the saints by teaching them how to pray according to the will of God. Paul never said the Spirit took the role of the High Priest. 
+* The Spirit intercedes by helping believers pray according to God's will; this project understands that as God at work through His Spirit, not a second mediator.
 * Jesus intercedes by mediating between God and men like a High Priest.
 
 Both are interceding but in different ways and for different purposes.
@@ -347,7 +344,7 @@ or
 
 > For as many of you as were **baptized into Christ** have **put on Christ**. -- Galatians 3:27 (ESV)
 
-The "[armor](/life/armor)" is the teachings, examples and the testimony also known as the gospel of the Lord Jesus Christ. Sometimes Paul uses the "armor of God" interchangeably as the "armor of light" or simply just "Christ", meaning the teachings of the Christ that protect us like armor against doubt, confusion, guilt and so forth. In these contexts the teachings of Christ is the motivation for believers to avoid sin described as "the desires of the flesh". 
+The "[armor](../../../kingdom/drafts/armor-of-god.md)" is the teachings, examples and the testimony also known as the gospel of the Lord Jesus Christ. Sometimes Paul uses the "armor of God" interchangeably as the "armor of light" or simply just "Christ", meaning the teachings of the Christ that protect us like armor against doubt, confusion, guilt and so forth. In these contexts the teachings of Christ is the motivation for believers to avoid sin described as "the desires of the flesh". 
 
 So to "put on Christ" means to "put on the armor of Christ" which means base your actions, beliefs and hope on the teachings of Christ.
 
@@ -357,6 +354,6 @@ The phrase "walk by the Spirit" could also mean obey or follow the Spirit which 
 
 Both leads believers in spirit (not by the bible):
 
-The term "[Spirit of Jesus](/god/son/spirit)" or "[Spirit of Christ](/god/son/spirit)" is used interchangeably as the "Holy Spirit" in many scriptures like Acts 16:7, Romans 8:1-27, Galatians 4:6, Philippians 1:19, 1 Peter 1:10-11.  
+The term "[Spirit of Jesus](../../../son/drafts/the-spirit-of-jesus-christ.md)" or "[Spirit of Christ](../../../son/drafts/the-spirit-of-jesus-christ.md)" is used alongside the "Holy Spirit" in many scriptures like Acts 16:7, Romans 8:1-27, Galatians 4:6, Philippians 1:19, 1 Peter 1:10-11.  
 
 Note that the authors always wrote "the Spirit of Jesus" or "the Spirit of Christ" and never "Jesus' own Spirit", nor "Jesus as the Spirit". "The Spirit of Jesus" could mean the same Spirit that previously enabled and lead Jesus or the Spirit that Jesus gave to his disciples.  This explains why the disciples could do the same miracles as Jesus.
