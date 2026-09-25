@@ -3,7 +3,7 @@ description: "What is the Holy Spirit? — Path: god / spirit / what-is-spirit"
 keywords: "What is the Holy Spirit?, god, spirit, what-is-spirit"
 ---
 
-Sadly, there are many [misconceptions about the Holy Spirit](not).
+This project understands the Holy Spirit as God's active Spirit, power, presence, and way of acting, proceeding from the Father—not a separate coequal person and not Jesus Himself. Nicene Christianity instead understands the Holy Spirit as a distinct divine person fully sharing the one divine essence with Father and Son, not a mode, creature, or divine part. See [misconceptions about the Holy Spirit](misconception-about-the-holy-spirit.md).
 
 # How God introduce His Spirit
 
@@ -29,13 +29,13 @@ Yet, Elihu (and possibly Job too, since he did not correct him on this matter) s
 
 > **The Spirit of God** has made me, and the breath *(spirit)* of the Almighty **gives me life**. -- Job 33:4 (ESV)
 
-If I pick up my child with my hands, you can "I carry my child **with my hands**" or "I carry my child **myself**". Both statements are correct, because my hands are part of me. There are many examples like these in the Bible where the Holy Spirit is acting, saying, expressing or doing things as the Almighty God Himself.
+If I pick up my child with my hands, one may say I carry the child "with my hands" or "myself." The analogy concerns action, not composition: God's Spirit is not a divine part. Scripture can attribute what God does through His Spirit directly to God Himself.
 
 For example:
 
 # The Holy Spirit made Mary pregnant
 
-If the Holy Spirit was anyone or anything else, then Jesus' father would not be the LORD God.
+The Spirit's coming upon Mary and the power of the Most High overshadowing her identify Jesus as the Son of God. This project reads these words as the Father acting through His Spirit, not as naming another father.
 
 > When his mother Mary had been betrothed to Joseph, before they came together she was found **to be with child from the Holy Spirit**. -- Matthew 1:18 (ESV)
 
@@ -110,9 +110,9 @@ But, Peter stated that it was the Holy Spirit, who raised Jesus from the dead:
 
 > For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but **made alive in the Spirit**... -- 1 Peter 3:18 (ESV)
 
-Unless the apostles contradict each other, it would mean that the Spirit is God the Father's Spirit.
+The apostles need not contradict: the Father raised Jesus and made Him alive through His Spirit. "Made alive in the Spirit" describes the Father's life-giving action through His active presence.
 
-# Jesus received the authority to send the Holy Spirit on his behalf
+# Jesus sends the Spirit from the Father
 
 > Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, **I will send him** to you. And when he comes, he will convict the world concerning sin and righteousness and judgment:
 > 
@@ -124,9 +124,13 @@ Unless the apostles contradict each other, it would mean that the Spirit is God 
 
 > You, however, are not in the flesh but in the Spirit, if in fact **the Spirit of God** dwells in you. Anyone who does not have **the Spirit of Christ** does not belong to him. But if **Christ is in** you, although the body is dead because of sin, the **Spirit is life** because of righteousness. -- Romans 8:9-10 (ESV)
 
-This may explain why the Spirit behave and acts like Jesus and is also referred to as "the mind of Christ" or "the Spirit of Christ".
+Jesus received the Spirit's anointing and leading (Luke 4:1, 18), then sends the promised Spirit from the Father (John 15:26). This project reads the Spirit of Christ language as God's Spirit at work in and through Christ and His people, not as Jesus becoming the Spirit.
 
-However, this brings up an interesting conundrum: Who is under whose authority?
+## Personal language and God's action
+
+Jesus calls the Spirit the Helper, and Scripture says the Spirit speaks, teaches, can be grieved, guides, apportions gifts "as he wills," and intercedes (John 14:26; 16:13; Ephesians 4:30; 1 Corinthians 12:11; Romans 8:26-27). These claims remain part of the evidence. Nicene Christians take them as evidence that the Spirit is a distinct divine person, fully sharing one divine essence with Father and Son.
+
+This project reads this personal language as God personally acting through His own Spirit: helping, teaching, grieving over rebellion, speaking, and guiding. The masculine Helper term (*paraklētos*) accounts for masculine grammar where that term is used, and Scripture also personifies realities such as Wisdom, sin, and death. The Spirit's agency, will, and intercession describe God's purposeful help within believers; they do not make the Spirit a mere force or a separate coequal person. John 16:13 says the Spirit does not speak on its own authority, and John 15:26 says it proceeds from the Father.
 
 ## Fellowship of the Holy Spirit
 

@@ -16,7 +16,7 @@ Genesis 18 describe the appearance of YHWH like a "man":
 
 > And the LORD appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. -- Genesis 18:1 (ESV)
 
-We continue reading that [YHWH appeared like a man](https://son.ofgod.info/trinity/abraham-3-visitors) to Abraham. However, some suggest that this "man" could also have been ["the angel of the LORD"](https://son.ofgod.info/son-as-angel) who often appears like a man, but speak and acts on behalf of God.
+We continue reading that [YHWH appeared like a man](https://son.ofgod.info/trinity/proof/abraham-3-visitors) to Abraham. However, some suggest that this "man" could also have been ["the angel of the LORD"](https://son.ofgod.info/son-as-angel) who often appears like a man, but speak and acts on behalf of God.
 
 Even more striking is the group encounter on Mount Sinai:
 

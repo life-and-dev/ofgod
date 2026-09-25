@@ -19,7 +19,7 @@ When God gives a specific command, obedience is essential, as disobedience would
 
 This mindset can perpetuate several myths:
 
-1. That one's purpose is to complete their assigned "quest" no matter what. 
+1. That one's purpose is to complete their assigned "quest" no matter what.
 2. That one's worth is tied to the difficulty of their "quest".
 3. That the legitimacy of their "quest" is measured by its tangible impact on the world.
 
@@ -83,8 +83,8 @@ God has grace, even when we accomplished nothing.
 ### Result of compromising
 
 * Eve: Her "calling" was made harder with birth pain (Genesis 3:16). However, Eve was still able to deliver children to Adam.
-* Adam: Adam was not technically removed because he failed his "calling", but was given another piece of field to complete his "calling". Instead of the abundant garden, Adam had to work the field outside the garden in pain to provide food for his family (Genesis 3:17-19). 
-* Abraham & Sarah: Initially they tried to fulfil their calling with the help of a concubine woman to delivery a child on behalf of Sarah (Genesis 16:1-4). This resulted in contempt (Genesis 16:4-6) and the birth of Ismael the forefather of the Arabs. However, despite their unfaithfulness towards God's promise, God still kept his promise such that Sarah eventually had her own son. 
+* Adam: Adam was not technically removed because he failed his "calling", but was given another piece of field to complete his "calling". Instead of the abundant garden, Adam had to work the field outside the garden in pain to provide food for his family (Genesis 3:17-19).
+* Abraham & Sarah: Initially they tried to fulfil their calling with the help of a concubine woman to delivery a child on behalf of Sarah (Genesis 16:1-4). This resulted in contempt (Genesis 16:4-6) and the birth of Ismael the forefather of the Arabs. However, despite their unfaithfulness towards God's promise, God still kept his promise such that Sarah eventually had her own son.
 * Jacob: Cheated his father and brother to get a blessing to fulfil his calling (Genesis 27). This incident caused Jacob's father to sent him away (Genesis 28:5) and forced Jacob to live in fear of Esau (Genesis 32-33). However, despite Jacob living in exile, Jacob was still blessed to become Israel.
 * Jonah: Fled from his mission to Tarshish because he did not want to see his enemies spared (Jonah 1:3, 4:2). This rebellion led to a life-threatening storm and his temporary imprisonment in the belly of a great fish (Jonah 1:4,17). However, despite his initial refusal and subsequent anger, God still used him to bring about the repentance of Nineveh (Jonah 3:10).
 * Samson: Samson was freely moving around the heart of the Philistines. He could have caused major damage to them if he wanted. Yet, his lustful desires after Philistine women initially prevented him from taking action. At the end, he still caused a major blow to the Philistines which initiated a gradual decline in the Philistine stronghold over Israel by completing his suicide mission.
@@ -107,20 +107,21 @@ Esther's position enabled her to save the Jews. One could argue that this was he
 
 ### Barak
 
-Another example is the situation where Deborah said to Barak "Has not the LORD, the God of Israel, commanded you...". In English, this implies that he ignored a previous command from God. However, some argue this is a typical rhetorical Hebrew question that does not necessary mean Barak had any former commands. 
+Another example is the situation where Deborah said to Barak "Has not the LORD, the God of Israel, commanded you...". In English, this implies that he ignored a previous command from God. However, some argue this is a typical rhetorical Hebrew question that does not necessary mean Barak had any former commands.
 
-Either way, Deborah was the judge (leader) of Israel who had the authority from God to order Barak to obey her prophecy (Judges 4:4-16). These circumstance lead Barak to receive a "calling" to free Israel. 
+Either way, Deborah was the judge (leader) of Israel who had the authority from God to order Barak to obey her prophecy (Judges 4:4-16). These circumstance lead Barak to receive a "calling" to free Israel.
 
-*(This single incident is no proof that it is normal for God to command men through women. Many scriptures rather state that women should submit to men even when the man is "spiritually weaker", for example: Genesis 3:16; 1 Corinthians 11:3; Colossians 3:18; Ephesians 5:22; 1 Peter 3:1)*
+> [!WARNING]
+> This single incident is no proof that it is normal for God to *command men through women*. Many scriptures rather state that [women should submit to men](https://kingdom.ofgod.info/christ/body/marriage) even when the man is "spiritually weaker", for example: Genesis 3:16; 1 Corinthians 11:3; Colossians 3:18; Ephesians 5:22; 1 Peter 3:1
 
 ## A godly desire that lead to a calling
 
-> Then I arose in the night, I and a few men with me. And I told no one **what my God had put into my heart to do for Jerusalem**... 
-> 
-> Then I said to them, “You see the trouble we are in, how Jerusalem lies in ruins with its gates burned. Come, let us build the wall of Jerusalem, that we may no longer suffer derision.” 
-> 
+> Then I arose in the night, I and a few men with me. And I told no one **what my God had put into my heart to do for Jerusalem**...
+>
+> Then I said to them, “You see the trouble we are in, how Jerusalem lies in ruins with its gates burned. Come, let us build the wall of Jerusalem, that we may no longer suffer derision.”
+>
 > And I told them of **the hand of my God that had been upon me** for good, and also of the words that the king had spoken to me. And they said, “Let us rise up and build.” So they strengthened their hands for the good work.
-> 
+>
 > — Nehemiah 2:12,17-18 (ESV)
 
 There are no record of any special visions, dreams, signs or miracles that Nehemiah experienced other than favour from the king and queen. Yet, Nehemiah felt that "God had put into his heart" a desire to rebuilt Jerusalem. Because he trusted that this desire is inline with God's will he had the courage to undertake this massive task.
@@ -142,7 +143,7 @@ There are no record of any special visions, dreams, signs or miracles that Nehem
 
 There are no scripture that place any responsibility on any person to seek God's special "calling" for his or her own [successful life](https://eternal.family.net.za/life). Instead, Jesus taught:
 
-> Seek first [the Kingdom of God](https://kingdom.ofgod.info) and His [righteousness](https://eternal.family.net.za/bible/concepts/righteousness), and all these things will be added to you. — Matthew 6:33 (ESV); Luke 12:31
+> Seek first [the Kingdom of God](https://kingdom.ofgod.info) and His [righteousness](https://kingdom.ofgod.info/life/righteousness), and all these things will be added to you. — Matthew 6:33 (ESV); Luke 12:31
 
 The Gospel of [the Kingdom of God](https://kingdom.ofgod.info) encourage us to:
 

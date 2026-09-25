@@ -2,3 +2,6 @@
 .mdsite/*
 .output/
 # end mdsite
+
+# AI Agents
+.agents/
