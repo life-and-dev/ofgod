@@ -49,7 +49,7 @@ God provided a substitute for Isaac and reaffirmed that the original promise wou
 
 > Then Abraham reached out his hand and took the knife to slaughter his son.
 >
-> But [the angel of the LORD](https://son.ofgod.info/son-as-angel) called to him from heaven and said, “Abraham, Abraham!”  
+> But [the angel of the LORD](https://son.ofgod.info/name/son-as-angel) called to him from heaven and said, “Abraham, Abraham!”  
 > And he said, “Here I am.”  
 > He said, “Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me.”
 >

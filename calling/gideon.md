@@ -17,7 +17,7 @@ Gideon was a man gripped by the same fear that paralyzed his entire nation (Judg
 
 ## The Divine Calling
 
-> Now [the angel of the LORD](https://son.ofgod.info/son-as-angel) came and sat under the terebinth at Ophrah, which belonged to Joash the Abiezrite, while his son Gideon was beating out wheat in the winepress to hide it from the Midianites.
+> Now [the angel of the LORD](https://son.ofgod.info/name/son-as-angel) came and sat under the terebinth at Ophrah, which belonged to Joash the Abiezrite, while his son Gideon was beating out wheat in the winepress to hide it from the Midianites.
 >
 > And the angel of the LORD appeared to him and said to him, “The LORD is with you, O mighty man of valor.”  
 > And Gideon said to him, “Please, my lord, if the LORD is with us, why then has all this happened to us? And where are all his wonderful deeds that our fathers recounted to us, saying, ‘Did not the LORD bring us up from Egypt?’ But now the LORD has forsaken us and given us into the hand of Midian.”  
