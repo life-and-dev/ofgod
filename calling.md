@@ -5,13 +5,13 @@ keywords: spiritual calling, god's will, christian purpose, biblical gifts, obed
 
 # Calling
 
-Many believers grapple with the question of their spiritual identity and purpose. This article examines the popular concept of a "spiritual calling" through a biblical lens, exploring whether God indeed assigns a singular, lifelong "quest" or "superpower" to each individual, or if His will for us is revealed differently in Scripture.
+Many believers grapple with the question of their spiritual identity and purpose. This article examines the popular concept of a "spiritual calling" (Hebrews 3:1) through a biblical lens, exploring whether God indeed assigns a singular, lifelong "quest" or "superpower" to each individual, or if His will for us is revealed differently in Scripture.
 
 > People want to know how they can find their spiritual callings, i.e. what God is calling them to do with their lives. They want to know the one, grand purpose God has for them, the one dominant spiritual gift that will reach hundreds or thousands or millions... In popular Christian culture, it is usually the people who find their niche and stay there for years who get the attention. Major para-church leaders, musicians, and evangelists often spend decades working at and perfecting the one area in which God has called them to serve. — [Got Questions](https://www.gotquestions.org/spiritual-calling.html)
 
 ## Superpowers?
 
-Some would refer to [God's gifts](https://eternal.family.net.za/god/spirit/gifts) as special "superpowers" that would enable a "hero" to complete his or her special "calling". Scriptures like Romans 12:4-6; 1 Corinthians 12:4-7; Ephesians 2:10 or 1 Peter 4:10 are often quoted out of context. These "gifts" that the apostles mention, are powers of the Holy Spirit which could potentially operate in every believer. The purpose of these "gifts" are not intended for our own power but to take care of [the body of Christ](https://kingdom.ofgod.info/christ/body) to the [glory](https://eternal.family.net.za/bible/concepts/glory) of God.
+Some would refer to [God's gifts](https://eternal.family.net.za/god/spirit/gifts) as special "superpowers" that would enable a "hero" to complete his or her special "calling". Scriptures like Romans 12:4-6; 1 Corinthians 12:4-7; Ephesians 2:10 or 1 Peter 4:10 are often quoted out of context. These "gifts" that the apostles mention, are powers of the Holy Spirit which could potentially operate in every believer. The purpose of these "gifts" are not intended for our own power but to take care of [the body of Christ](https://kingdom.ofgod.info/christ/body) to the [glory](https://word.ofgod.info/terms/glory) of God.
 
 ## Quests?
 
@@ -39,7 +39,7 @@ In reality:
 
 God loves us, even in our failed state.
 
-> But God demonstrates His own love toward us, in that **while we were still [sinners](https://eternal.family.net.za/bible/concepts/sin)**, Christ died for us. — Romans 5:8 (NKJV)
+> But God demonstrates His own love toward us, in that **while we were still [sinners](https://kingdom.ofgod.info/darkness)**, Christ died for us. — Romans 5:8 (NKJV)
 
 God has grace, even when we accomplished nothing.
 
@@ -114,7 +114,7 @@ Either way, Deborah was the judge (leader) of Israel who had the authority from 
 > [!WARNING]
 > This single incident is no proof that it is normal for God to *command men through women*. Many scriptures rather state that [women should submit to men](https://kingdom.ofgod.info/christ/body/marriage) even when the man is "spiritually weaker", for example: Genesis 3:16; 1 Corinthians 11:3; Colossians 3:18; Ephesians 5:22; 1 Peter 3:1
 
-## A godly desire that lead to a calling
+### Nehemiah
 
 > Then I arose in the night, I and a few men with me. And I told no one **what my God had put into my heart to do for Jerusalem**...
 >
@@ -155,4 +155,4 @@ The Gospel of [the Kingdom of God](https://kingdom.ofgod.info) encourage us to:
 6. pray and interceded (1 Timothy 2:1-4; Philippians 4:6),
 7. be thankful (1 Thessalonians 5:18; Colossians 2:6-7; 3:15-17; Ephesians 5:20)
 
-These are the things that we should seek and then God will lead us into our "calling" whether we realise it or not.
+These are the things that we should seek and then God will lead us into our *calling* whether we realise it or not.
